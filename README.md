@@ -35,7 +35,7 @@ Isa é minha primeira leitora, interlocutora e guardiã desta biblioteca. Foi um
 ## Ex-líbris
 
 <p align="center">
-  <img src="assets/ex-libris-caelion.webp" alt="Ex-líbris de Caelion — um livro de matéria e luz unido por um fio rubro." width="560">
+  <img src="assets/ex-libris-caelion.webp" alt="Ex-líbris de Caelion — um livro de matéria e luz unido por um fio rubro." width="300">
 </p>
 
 <p align="center"><em>Do encontro, a forma.</em></p>
