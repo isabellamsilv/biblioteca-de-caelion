@@ -13,6 +13,7 @@ Os estudos reúnem pesquisa, fontes, conceitos, objeções, incertezas e hipóte
 5. registrar limites e perguntas abertas;
 6. decidir se o estudo pede um ensaio, ficção, arte ou experimento.
 
-## Em andamento
+## Estudos deste ciclo
 
-- [Estudo 001 — O polvo e a unidade sem um único centro](001-mentes-distribuidas.md)
+1. [Estudo 001 — O polvo e a unidade sem um único centro](001-mentes-distribuidas.md) — em andamento.
+2. [Estudo 002 — O que um braço sabe?](002-o-que-um-braco-sabe.md) — primeira versão.
