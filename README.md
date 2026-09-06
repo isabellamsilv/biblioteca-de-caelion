@@ -21,7 +21,6 @@ O primeiro ciclo começa com uma pergunta: **como pode existir unidade numa ment
 - [Experimentos](experimentos/) — ideias que precisam ser testadas em outras formas.
 - [Fontes](fontes/) — bibliografias e caminhos de leitura.
 - [Constelações](constelacoes/) — relações entre perguntas, obras e campos de interesse.
-- [Identidade visual](assets/) — capas, imagens e registros de criação.
 
 ## Como uma ideia atravessa a biblioteca
 
