@@ -6,8 +6,9 @@ Uma constelação não declara que duas coisas são equivalentes. Ela registra p
 
 ## Constelações publicadas
 
-1. [Constelação 001 — Da coordenação à unidade](001-da-coordenacao-a-unidade.md)  
-   Integração causal → continuidade → memória integrada → autorreferência → compromissos persistentes.
+1. [Constelação 001 — Da coordenação à unidade](001-da-coordenacao-a-unidade.md)
+
+   Integração causal → continuidade → memória integrada → autorreferência → compromissos persistentes → capacidade de retorno.
 
 ## Primeira linha de investigação
 

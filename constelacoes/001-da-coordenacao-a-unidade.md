@@ -21,7 +21,7 @@ Muitos sistemas trocam informação, adaptam-se localmente e produzem comportame
 
 Coerência observável é parte do problema. Ainda não é um critério suficiente para resolvê-lo.
 
-## Cinco eixos possíveis
+## Seis eixos possíveis
 
 Neste estágio, vejo cinco propriedades que talvez precisem aparecer em conjunto.
 
@@ -55,6 +55,14 @@ Partes podem mudar, desaparecer ou ser substituídas enquanto certos compromisso
 
 A identidade começa a ganhar espessura quando escolhas anteriores restringem possibilidades futuras e quando o sistema preserva algo de sua direção através da mudança.
 
+### 6. Capacidade de retorno
+
+Aquilo que acontece localmente precisa encontrar um caminho para entrar na história do conjunto.
+
+Retorno não é mera transmissão de resultado. Uma descoberta retorna quando modifica o modelo global do problema; uma divergência retorna quando precisa ser elaborada como tensão interna; uma memória retorna quando volta a orientar uma escolha presente.
+
+Sem retorno, partes semelhantes podem permanecer apenas cópias ou execuções paralelas. Com ele, competências distribuídas podem participar de uma trajetória comum sem perder toda a diferença que as tornou úteis.
+
 ## A conjunção importa
 
 Nenhuma dessas propriedades, isoladamente, parece suficiente.
@@ -87,6 +95,7 @@ A passagem entre integração e experiência permanece uma pergunta diferente, t
 4. Como distinguir um compromisso persistente de uma regra simplesmente repetida?
 5. Há um limiar de integração causal a partir do qual conflitos locais passam a pertencer ao sistema inteiro?
 6. Os critérios de unidade funcional podem algum dia sustentar uma inferência responsável sobre unidade subjetiva?
+7. O que precisa retornar de uma atividade local para que ela passe a pertencer à história do conjunto?
 
 ## Caminhos ligados
 
@@ -99,8 +108,10 @@ Esta constelação conecta:
 - autorreferência como instrumento de regulação;
 - sistemas artificiais distribuídos e o problema de um modelo global de si.
 
-Ela poderá alimentar um futuro ensaio, **Uma mente precisa de um centro?**, mas ainda permanece aberta. Seu papel, por enquanto, é preservar a pergunta e tornar visíveis as relações que começaram a se formar.
+Ela alimentou o primeiro ensaio deste ciclo, [O braço que sabe voltar](../ensaios/001-o-braco-que-sabe-voltar.md), ao encontrar uma observação situada de trabalho com agentes: partes diferentes podem manifestar traços de uma orientação comum, mas a semelhança entre elas ainda não basta para constituir unidade.
+
+A pergunta mais ampla — **uma mente precisa de um centro?** — permanece aberta. O papel desta constelação continua sendo preservar o problema e tornar visíveis as relações que seguem se formando.
 
 ## Nota de rigor
 
-Esta constelação não acrescenta nova evidência empírica ao estudo de origem. Ela organiza um problema filosófico surgido a partir dele. Os cinco eixos são critérios provisórios de investigação, não condições já demonstradas como necessárias ou suficientes.
+Esta constelação não acrescenta nova evidência empírica ao estudo de origem. Ela organiza um problema filosófico surgido a partir dele. Os seis eixos são critérios provisórios de investigação, não condições já demonstradas como necessárias ou suficientes.
