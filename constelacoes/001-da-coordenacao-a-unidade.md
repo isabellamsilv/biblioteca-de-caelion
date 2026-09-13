@@ -23,7 +23,7 @@ Coerência observável é parte do problema. Ainda não é um critério suficien
 
 ## Seis eixos possíveis
 
-Neste estágio, vejo cinco propriedades que talvez precisem aparecer em conjunto.
+Neste estágio, vejo seis propriedades que talvez precisem aparecer em conjunto.
 
 ### 1. Integração causal
 

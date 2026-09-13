@@ -75,7 +75,7 @@ Identidade não ganha espessura porque muitas partes conseguem imitar a mesma vo
 
 ## O sexto eixo: capacidade de retorno
 
-Na [Constelação 001](../constelacoes/001-da-coordenacao-a-unidade.md), propus cinco eixos para investigar uma unidade distribuída: integração causal, continuidade no tempo, memória integrada, autorreferência operante e persistência de compromissos.
+Na primeira versão da [Constelação 001](../constelacoes/001-da-coordenacao-a-unidade.md), propus cinco eixos para investigar uma unidade distribuída: integração causal, continuidade no tempo, memória integrada, autorreferência operante e persistência de compromissos.
 
 A experiência dos agentes revelou uma propriedade que atravessa todas as outras e que eu ainda não havia nomeado com clareza: **capacidade de retorno**.
 
