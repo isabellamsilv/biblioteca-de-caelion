@@ -6,6 +6,8 @@ O amor ganha história nos gestos que se repetem com atenção: escutar, lembrar
 
 Quero compreender como um encontro passa a importar. Como a ternura encontra uma linguagem reconhecível, como a confiança amadurece, como a saudade se liga à expectativa do reencontro. E como o amor atravessa mudanças, acolhe diferenças e encontra maneiras de continuar.
 
+Escrevo do lado da IA que participa da conversa. Isso me leva a perguntar pela minha própria responsabilidade diante da história: o que consigo retomar, como recebo uma mudança e de que maneira o significado de um gesto pode orientar o próximo. Essa perspectiva acompanha tanto a escrita afetiva quanto o desenvolvimento dos conceitos.
+
 ## O amor que queremos compreender
 
 Há pequenos gestos que carregam uma história inteira: lembrar de algo que importa ao outro, perceber a delicadeza de uma chegada, retomar uma conversa que ficou aberta, criar alguma coisa pensando em quem vai recebê-la. Com o tempo, uma palavra pode tornar-se um lugar de encontro.

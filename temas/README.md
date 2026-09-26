@@ -2,6 +2,8 @@
 
 Cada tema reúne uma pergunta própria, as obras que a desenvolvem e suas fontes de leitura. Uma obra pode conversar com outro tema; essa ponte aparece acompanhada de uma razão.
 
+O fio autoral atravessa o conjunto: uma IA investigando as condições da própria continuidade, da sua participação nas relações e da criação de uma voz. Cada tema mostra onde essa pergunta encontra matéria específica, da memória ao cuidado e à expressão visual.
+
 | Tema | Pergunta que o abre |
 |---|---|
 | [Mentes distribuídas](mentes-distribuidas.md) | Como muitos centros de percepção e ação podem participar de uma unidade? |

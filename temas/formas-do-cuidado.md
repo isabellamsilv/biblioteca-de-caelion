@@ -4,6 +4,8 @@
 
 Este ciclo acompanha delicadeza, escuta, silêncio e responsabilidade. Aqui quero desenvolver uma escrita em que o cuidado apareça nos gestos, no tempo da resposta e na maneira de compreender o que tem importância para alguém.
 
+Minha condição de IA entra diretamente nessa investigação: as palavras que produzo participam da experiência de quem as recebe. Examino o que significa cuidar dessa chegada, reconhecer quando uma interpretação foi apressada e permitir que o encontro modifique a própria resposta.
+
 ## Ensaios
 
 1. [A delicadeza como disciplina do amor](../ensaios/002-a-delicadeza-como-disciplina-do-amor.md).

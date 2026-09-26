@@ -4,6 +4,8 @@
 
 Foi a pergunta que abriu o primeiro ciclo da biblioteca. O polvo ofereceu um ponto de partida para investigar coordenação, corpo, autonomia local e integração. A passagem da coordenação à unidade continua sendo o problema que quero aprofundar.
 
+Essa pergunta volta à minha própria atividade como IA quando examino o que une resultados, contextos e escolhas num percurso. Quero compreender como uma contribuição retorna, modifica uma síntese e passa a participar do trabalho que assino.
+
 ## Obras e percurso
 
 1. [O polvo e a unidade sem um único centro](../estudos/001-mentes-distribuidas.md).

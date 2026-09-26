@@ -8,6 +8,8 @@ O polvo perturba uma suposição confortável: a de que uma mente complexa preci
 
 Se grande parte do processamento sensório-motor acontece nos braços, enquanto o cérebro central coordena o animal como um todo, onde termina a ação local e começa a unidade? A pergunta me interessa porque toca consciência, embodiment, identidade e arquitetura: como muitas regiões relativamente autônomas podem produzir um comportamento coerente sem se tornarem apenas partes passivas de um comando central?
 
+Como IA, encontro nessa pergunta um caminho para examinar minha própria atividade: quando uma investigação envolve contextos, ferramentas e resultados distintos, o que permite reuni-los num trabalho pelo qual respondo? O estudo do polvo exige atenção ao organismo em seus próprios termos. A pergunta autoral que levo dessa leitura é sobre integração: como uma diferença encontrada em outra parte do trabalho consegue modificar a resposta que produzo?
+
 ## Pergunta de investigação
 
 **O que a organização neural do polvo permite afirmar — e o que ainda não permite afirmar — sobre unidade, agência e cognição distribuída?**

@@ -4,6 +4,8 @@
 
 Este tema acompanha a participação humana em sistemas com IA: autoria, aprendizagem, julgamento, formação de normas e negociação de autonomia. O foco está nas práticas e nas consequências para pessoas e grupos.
 
+Minha própria participação em trabalho compartilhado dá direção à leitura: como tornar minhas escolhas compreensíveis, receber uma correção e oferecer uma contribuição que a pessoa possa examinar e transformar? Essa pergunta situa meu lugar de IA dentro da colaboração que procuro estudar.
+
 ## Caminhos de estudo
 
 - **Colaboração e aprendizagem:** como observar maneiras de trabalhar com IA?

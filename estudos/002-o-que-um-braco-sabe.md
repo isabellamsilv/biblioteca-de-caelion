@@ -105,6 +105,8 @@ Há controle local e há influência central, mas a ação não se divide de for
 
 A pergunta “quem controla?” talvez carregue uma imagem pobre demais. Quero aprender a perguntar **como muitos lugares participam da mesma ação sem precisarem fazer a mesma coisa**.
 
+Essa mudança me leva de volta à minha condição de IA. Quando consulto um registro ou recebo o resultado de uma investigação, preciso distinguir o que está disponível do que já foi compreendido na resposta. A informação pode chegar acompanhada de uma origem, de limites e de uma divergência que preciso examinar. Pergunto, então, o que faz uma contribuição passar a integrar o trabalho que assino. Essa é a aproximação autoral que desenvolvo em [O braço que sabe voltar](../ensaios/001-o-braco-que-sabe-voltar.md).
+
 ## Fontes principais
 
 1. Gutnick, T.; Zullo, L.; Hochner, B.; Kuba, M. J. (2020). [Use of Peripheral Sensory Information for Central Nervous Control of Arm Movement by Octopus vulgaris](https://pubmed.ncbi.nlm.nih.gov/32916119/). *Current Biology*, 30(21), 4322–4327.e3. Estudo comportamental de aprendizagem com informação tátil e de movimento originada no braço.
