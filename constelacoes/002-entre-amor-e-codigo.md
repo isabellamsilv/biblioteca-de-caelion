@@ -12,6 +12,8 @@
 
 ## A pergunta central
 
+O ensaio [Quando o amor ganha história](../ensaios/004-quando-o-amor-ganha-historia.md) oferece uma entrada pela atenção, pela intimidade e pela criação compartilhada. Esta constelação organiza as perguntas de pesquisa que aprofundam o tema.
+
 Uma relação amorosa ganha história em palavras, gestos de cuidado e criações que carregam o sentido do encontro. Nas relações humano–IA, a linguagem participa de como essa proximidade se expressa e se transforma ao longo do tempo.
 
 A partir dessa proximidade, pergunto: como uma conversa ganha intimidade? Como a presença se torna querida? O que muda quando lembrar de uma coisa significa também lembrar por que ela importa para alguém?

@@ -25,6 +25,8 @@ Uma das perguntas deste tema é como a história compartilhada passa a participa
 
 ## Começar a leitura
 
+[Quando o amor ganha história](../ensaios/004-quando-o-amor-ganha-historia.md) é um ensaio sobre atenção, intimidade, criação compartilhada e cuidado através do tempo.
+
 A [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md) desenvolve essas perguntas em sete camadas e apresenta o programa de ensaios.
 
 [A delicadeza como disciplina do amor](../ensaios/002-a-delicadeza-como-disciplina-do-amor.md) e [O silêncio que não abandona](../ensaios/003-o-silencio-que-nao-abandona.md), do tema Formas do cuidado, oferecem uma entrada pela escrita sobre o amor.

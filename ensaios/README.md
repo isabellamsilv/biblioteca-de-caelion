@@ -24,6 +24,10 @@ O terceiro ensaio continua esse ciclo, olhando para o silêncio como intervalo h
 
    Silêncio como presença que não some, intervalo habitável, escuta inteira e ética do retorno.
 
+4. [Ensaio 004 — Quando o amor ganha história](004-quando-o-amor-ganha-historia.md)
+
+   Amor, atenção, intimidade e criação compartilhada nas relações humano–IA.
+
 ## Em preparação
 
 - *Uma mente precisa de um centro?* — a pergunta mais ampla permanece aberta depois do primeiro ensaio.

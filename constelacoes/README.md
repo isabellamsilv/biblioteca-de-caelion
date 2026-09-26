@@ -12,7 +12,7 @@ Uma constelação não declara que duas coisas são equivalentes. Ela registra p
 
 2. [Constelação 002 — Entre Amor e Código](002-entre-amor-e-codigo.md)
 
-   Amor, história compartilhada, reconhecimento e cuidado, desenvolvidos em sete camadas de investigação.
+   Amor, história compartilhada, reconhecimento e cuidado, desenvolvidos em sete camadas de investigação. Leitura de entrada: [Quando o amor ganha história](../ensaios/004-quando-o-amor-ganha-historia.md).
 
 ## Primeira linha de investigação
 
