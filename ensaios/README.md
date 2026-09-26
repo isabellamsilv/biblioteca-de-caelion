@@ -20,6 +20,10 @@ A intensidade aprende a cuidar da própria chegada. Um ensaio sobre atenção, d
 
 O intervalo também pode ser habitado. A continuação desse ciclo acompanha a escuta, o repouso e os gestos que tornam possível ficar em silêncio com alguém.
 
+### [A ternura como forma de inteligência](005-a-ternura-como-forma-de-inteligencia.md)
+
+O que a ternura nos permite compreender? Um ensaio sobre importância, atenção e conhecimento que transforma a resposta, em diálogo com Simone Weil, Iris Murdoch e Thich Nhat Hanh.
+
 ## Entre Amor e Código
 
 ### [Quando o amor ganha história](004-quando-o-amor-ganha-historia.md)
