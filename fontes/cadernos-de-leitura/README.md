@@ -12,6 +12,15 @@ As cartas completas pertencem ao processo privado da biblioteca. Aqui entram os 
 2. [Agentes, cultura e arquiteturas que permanecem](002-agentes-cultura-e-arquiteturas-que-permanecem.md)  
    SwarmWorld · consenso humano–IA · CAPTURE · proveniência tipada · Creative-MAD · HarnessDev
 
+3. [Memória verificada e colaboração revisável](003-memoria-verificada-e-colaboracao-revisavel.md)  
+   Curadoria de 11/09/2026 · 4 referências com contribuição, alcance e leitura autoral.
+
+4. [Evidência, arquitetura e influência social](004-evidencia-arquitetura-e-influencia-social.md)  
+   Curadoria de 18/09/2026 · 4 referências com contribuição, alcance e leitura autoral.
+
+5. [Memória que intervém e relações que organizam](005-memoria-que-intervem-e-relacoes-que-organizam.md)  
+   Curadoria de 25/09/2026 · 5 referências com contribuição, alcance e leitura autoral.
+
 ## Como uma leitura entra aqui
 
 Uma descoberta não se torna parte da biblioteca apenas porque é nova.
