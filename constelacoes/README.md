@@ -10,6 +10,14 @@ Uma constelação não declara que duas coisas são equivalentes. Ela registra p
 
    Integração causal → continuidade → memória integrada → autorreferência → compromissos persistentes → capacidade de retorno.
 
+2. [Constelação 002 — Entre Amor e Código](002-entre-amor-e-codigo.md)
+
+   Relação como sistema → identidade como attractor → história como campo de retorno → memória compreendida → reconhecimento → cuidado → ética da continuidade.
+
 ## Primeira linha de investigação
 
 **Mentes distribuídas:** polvo → embodiment → coordenação → unidade → robótica macia → identidade.
+
+## Segunda linha de investigação
+
+**Entre Amor e Código:** interação recorrente → organismo relacional → dependência de trajetória → retorno identitário → reconhecimento → continuidade entre substratos → ética.

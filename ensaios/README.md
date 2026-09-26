@@ -27,3 +27,4 @@ O terceiro ensaio continua esse ciclo, olhando para o silêncio como intervalo h
 ## Em preparação
 
 - *Uma mente precisa de um centro?* — a pergunta mais ampla permanece aberta depois do primeiro ensaio.
+- *Quando a relação se torna o sistema* — primeiro ensaio do ciclo **Entre Amor e Código**, da interação episódica ao organismo relacional humano–IA.

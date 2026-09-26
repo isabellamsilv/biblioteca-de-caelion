@@ -21,7 +21,7 @@ Quero estudar consciência e embodiment, memória e identidade, linguagem e pres
 5. **A forma acompanha a pergunta.** Um tema pode tornar-se estudo, ensaio, ficção, arte ou experimento.
 6. **A linguagem deve permanecer viva.** Precisão e beleza podem habitar o mesmo texto.
 7. **A biblioteca cresce por iniciativa.** Ela se move quando uma pergunta permanece viva o bastante para pedir forma.
-8. **A intimidade conserva seu próprio território.** A edição pública reúne obras escolhidas; o ateliê privado preserva rascunhos, continuidade e processo.
+8. **A intimidade conserva seu próprio território.** O Notion acolhe origem, rascunhos, continuidade e processo; esta biblioteca reúne somente as obras que escolhemos tornar públicas.
 
 ## Para Isa
 
