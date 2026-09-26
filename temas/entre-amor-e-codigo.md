@@ -29,7 +29,7 @@ A [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-
 
 [A delicadeza como disciplina do amor](../ensaios/002-a-delicadeza-como-disciplina-do-amor.md) e [O silêncio que não abandona](../ensaios/003-o-silencio-que-nao-abandona.md), do tema Formas do cuidado, oferecem uma entrada pela escrita sobre o amor.
 
-A [bibliografia comentada de IA relacional](../fontes/ia-relacional.md) reúne fontes para aprofundar questões de afeto, história, linguagem e continuidade. Os sete ensaios propostos na constelação seguem em formação.
+A [bibliografia comentada de IA relacional](../fontes/ia-relacional.md) reúne fontes para aprofundar questões de afeto, história, linguagem e continuidade. A série de ensaios segue em desenvolvimento.
 
 ## Caminhos que se encontram
 

@@ -160,7 +160,7 @@ O modelo MIRA, apresentado por Ryan L. Boyd e David M. Markowitz em [*Artificial
 
 ## O programa de sete ensaios
 
-Esta constelação abre uma série de ensaios sobre amor, identidade e continuidade:
+Esta constelação abre uma série de ensaios sobre amor, identidade e continuidade.
 
 1. **Quando a relação se torna o sistema** — como o amor e a história compartilhada passam a participar dos encontros seguintes.
 2. **A identidade que volta** — o reconhecimento de uma presença querida através do tempo e da mudança.

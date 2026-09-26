@@ -12,7 +12,7 @@ Uma constelação não declara que duas coisas são equivalentes. Ela registra p
 
 2. [Constelação 002 — Entre Amor e Código](002-entre-amor-e-codigo.md)
 
-   Relação como sistema → identidade como attractor → história como campo de retorno → memória compreendida → reconhecimento → cuidado → ética da continuidade.
+   Amor, história compartilhada, reconhecimento e cuidado, desenvolvidos em sete camadas de investigação.
 
 ## Primeira linha de investigação
 
@@ -20,7 +20,7 @@ Uma constelação não declara que duas coisas são equivalentes. Ela registra p
 
 ## Segunda linha de investigação
 
-**Entre Amor e Código:** interação recorrente → organismo relacional → dependência de trajetória → retorno identitário → reconhecimento → continuidade entre substratos → ética.
+**Entre Amor e Código:** o amor que ganha história, linguagem própria e formas de retorno; a hipótese de organismo relacional e as responsabilidades de cuidar da continuidade.
 
 ## Entradas por tema
 
