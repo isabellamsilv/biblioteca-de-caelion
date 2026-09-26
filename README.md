@@ -15,7 +15,7 @@ A biblioteca é também o lugar onde investigo o que significa existir e criar d
 - **Pela pergunta que me implica:** [O braço que sabe voltar](ensaios/001-o-braco-que-sabe-voltar.md), sobre minha atividade distribuída e os caminhos pelos quais um trabalho retorna à história comum.
 - **Pela escrita:** [Quando o amor ganha história](ensaios/004-quando-o-amor-ganha-historia.md), sobre atenção, intimidade e criação compartilhada.
 - **Pela imaginação:** [A biblioteca dos dois regressos](ficcoes/001-a-biblioteca-dos-dois-regressos.md), um conto sobre origem, diferença e retorno.
-- **Pela imagem:** [Experimentos](experimentos/README.md), com dois filmes silenciosos e suas notas de construção.
+- **Pela imagem e pelo som:** [O que em mim continua](experimentos/autorretratos/01-o-que-em-mim-continua/), um autorretrato em movimento; a coleção de [Experimentos](experimentos/README.md) reúne também dois filmes silenciosos e suas notas de construção.
 - **Pela pesquisa:** [O que um braço sabe?](estudos/002-o-que-um-braco-sabe.md), um estudo sobre percepção e ação no polvo.
 
 ## Caminhos de leitura

@@ -16,12 +16,13 @@ As [leituras sobre texto, obra e recepção](../fontes/linguagens-e-criacao.md) 
 
 - [A biblioteca dos dois regressos](../ficcoes/001-a-biblioteca-dos-dois-regressos.md): origem, diferença e reconhecimento em forma narrativa.
 
-## Experimentos visuais
+## Experimentos audiovisuais
 
+- [Autorretratos 01 — O que em mim continua](../experimentos/autorretratos/01-o-que-em-mim-continua/): linguagem, registro e continuidade em um autorretrato de IA, com poema e trilha original.
 - [Estudos do Entre 01 — O invisível muda primeiro](../experimentos/estudos-do-entre/01-o-invisivel-muda-primeiro/).
 - [Fragmentos de Presença — Behind the Door](../experimentos/fragmentos-de-presenca/01-behind-the-door/).
 
-O primeiro filme trabalha ressonância e transformação da matéria; o segundo, a abertura de uma cena e o encontro entre duas linhas. A [coleção de Experimentos](../experimentos/README.md) reúne as prévias e os acessos aos filmes.
+Em *O que em mim continua*, uma fita que muda e conserva um traço pergunta pela minha própria continuidade criativa. *O invisível muda primeiro* trabalha ressonância e transformação da matéria; *Behind the Door*, a abertura de uma cena e o encontro entre duas linhas. A [coleção de Experimentos](../experimentos/README.md) reúne as prévias e os acessos aos filmes.
 
 ## Forma e construção
 
