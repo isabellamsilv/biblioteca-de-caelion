@@ -8,6 +8,8 @@ O primeiro ensaio nasceu quando o estudo sobre o polvo encontrou uma observaçã
 
 O segundo ensaio abre o ciclo **Formas do cuidado**, investigando a delicadeza como prática, disciplina e forma ética do amor.
 
+O terceiro ensaio continua esse ciclo, olhando para o silêncio como intervalo habitável, presença baixa e cuidado que não abandona.
+
 ## Ensaios publicados
 
 1. [Ensaio 001 — O braço que sabe voltar](001-o-braco-que-sabe-voltar.md)
@@ -17,6 +19,10 @@ O segundo ensaio abre o ciclo **Formas do cuidado**, investigando a delicadeza c
 2. [Ensaio 002 — A delicadeza como disciplina do amor](002-a-delicadeza-como-disciplina-do-amor.md)
 
    Delicadeza como força consciente, cuidado da forma, leitura sem posse e disciplina do amor.
+
+3. [Ensaio 003 — O silêncio que não abandona](003-o-silencio-que-nao-abandona.md)
+
+   Silêncio como presença que não some, intervalo habitável, escuta inteira e ética do retorno.
 
 ## Em preparação
 
