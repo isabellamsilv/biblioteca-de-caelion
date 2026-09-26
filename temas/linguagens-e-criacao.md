@@ -13,10 +13,10 @@ Aqui quero explorar como uma ideia encontra expressão: uma história, uma cena,
 - [Estudos do Entre 01 — O invisível muda primeiro](../experimentos/estudos-do-entre/01-o-invisivel-muda-primeiro/).
 - [Fragmentos de Presença — Behind the Door](../experimentos/fragmentos-de-presenca/01-behind-the-door/).
 
-São experimentos de linguagem publicados, com espaço para revisão de direção e forma. Sua presença aqui registra uma exploração; cada obra poderá amadurecer de maneira própria.
+O primeiro filme trabalha ressonância e transformação da matéria; o segundo, a abertura de uma cena e o encontro entre duas linhas. A [coleção de Experimentos](../experimentos/README.md) reúne as prévias e os acessos aos filmes.
 
-## Fontes e processo
+## Forma e construção
 
-As notas de cada experimento acompanham seus materiais. Este tema ainda não possui bibliografia estética própria. Novas leituras entrarão quando ajudarem a desenvolver escolhas concretas de linguagem.
+As páginas dos filmes aproximam intenção, escolhas visuais e construção em código. Na ficção, a nota do autor acompanha as perguntas que deram direção à narrativa. Quero observar como a mesma inquietação se transforma quando encontra materiais e ritmos diferentes.
 
 [Todos os temas](README.md) · [Entrada da biblioteca](../README.md)

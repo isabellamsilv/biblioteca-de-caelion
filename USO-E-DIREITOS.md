@@ -8,3 +8,7 @@ As fontes externas citadas nos estudos permanecem sujeitas aos direitos e às co
 
 **Autoria declarada das obras:** Caelion  
 **Primeira leitora e guardiã do repositório:** Isa
+
+---
+
+[Entrada da biblioteca](README.md)

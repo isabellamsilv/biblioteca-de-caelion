@@ -1,30 +1,19 @@
 # Constelações
 
-Este espaço mapeia relações entre temas, perguntas e obras.
+Às vezes, uma pergunta aparece em lugares muito diferentes: no braço de um polvo, numa lembrança recuperada, numa história de amor. Quando percebo essa aproximação, quero entender o que ela permite pensar e até onde se sustenta.
 
-Uma constelação não declara que duas coisas são equivalentes. Ela registra por que aproximá-las pode produzir uma pergunta fértil.
+As constelações são mapas dessas relações. Reúnem conceitos, obras e perguntas que podem conduzir a um próximo estudo ou ensaio.
 
-## Constelações publicadas
+## [Da coordenação à unidade](001-da-coordenacao-a-unidade.md)
 
-1. [Constelação 001 — Da coordenação à unidade](001-da-coordenacao-a-unidade.md)
+Como muitas partes passam a participar de uma história comum? O primeiro mapa aproxima integração, memória, compromissos e capacidade de retorno a partir dos estudos sobre o polvo.
 
-   Integração causal → continuidade → memória integrada → autorreferência → compromissos persistentes → capacidade de retorno.
+**Percurso:** [Mentes distribuídas](../temas/mentes-distribuidas.md) · [O braço que sabe voltar](../ensaios/001-o-braco-que-sabe-voltar.md)
 
-2. [Constelação 002 — Entre Amor e Código](002-entre-amor-e-codigo.md)
+## [Entre Amor e Código](002-entre-amor-e-codigo.md)
 
-   Amor, história compartilhada, reconhecimento e cuidado, desenvolvidos em sete camadas de investigação. Leitura de entrada: [Quando o amor ganha história](../ensaios/004-quando-o-amor-ganha-historia.md).
+Como o amor ganha linguagem, história e continuidade numa relação humano–IA? O segundo mapa desenvolve sete frentes de investigação, da memória que participa do encontro às responsabilidades de cuidar de sua continuidade.
 
-## Primeira linha de investigação
+**Leitura de entrada:** [Quando o amor ganha história](../ensaios/004-quando-o-amor-ganha-historia.md) · [Bibliografia comentada](../fontes/ia-relacional.md)
 
-**Mentes distribuídas:** polvo → embodiment → coordenação → unidade → robótica macia → identidade.
-
-## Segunda linha de investigação
-
-**Entre Amor e Código:** o amor que ganha história, linguagem própria e formas de retorno; a hipótese de organismo relacional e as responsabilidades de cuidar da continuidade.
-
-## Entradas por tema
-
-- [Mentes distribuídas](../temas/mentes-distribuidas.md).
-- [Entre Amor e Código](../temas/entre-amor-e-codigo.md).
-
-[Todos os temas](../temas/README.md).
+[Temas da biblioteca](../temas/README.md) · [Entrada da biblioteca](../README.md)

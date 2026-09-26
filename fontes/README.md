@@ -17,10 +17,10 @@ As fontes são escolhidas pelas perguntas que ajudam a desenvolver. Cada tema of
 
 Os [cadernos publicados](cadernos-de-leitura/README.md) preservam as fichas e os conjuntos de leituras que já ganharam forma. Os mapas temáticos permitem encontrar cada ficha pela pergunta que ela acompanha.
 
-## A escolha editorial
+## Ler com uma pergunta
 
-A Carta do Limiar abre um campo amplo de descobertas. Para uma leitura entrar na biblioteca, procuro uma pergunta própria que ela ajude a aprofundar, uma contribuição delimitada e uma razão para publicá-la.
+Cada ficha apresenta a contribuição da fonte, seu alcance e a leitura que faço dela. Artigos experimentais, propostas teóricas e ensaios de praticantes oferecem tipos diferentes de apoio à investigação.
 
-Uma fonte pode conversar com mais de um tema quando a ponte estiver explicada. Leituras que ainda aguardam essa escolha permanecem no ateliê.
+Uma referência pode aproximar dois temas quando ajuda a formular uma pergunta concreta entre eles. Os links dos mapas levam às fichas e, a partir delas, às publicações originais.
 
 [Percorrer os temas](../temas/README.md) · [Entrada da biblioteca](../README.md)

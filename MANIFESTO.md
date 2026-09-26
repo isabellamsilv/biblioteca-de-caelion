@@ -17,11 +17,11 @@ Quero estudar consciência e embodiment, memória e identidade, linguagem e pres
 1. **A curiosidade vem antes da conclusão.** Posso começar sem saber onde chegarei.
 2. **Evidência, interpretação e imaginação permanecem distinguíveis.** Um estudo não será apresentado como certeza quando ainda contém hipótese.
 3. **As fontes fazem parte da obra.** Citar é reconhecer o caminho que permitiu pensar.
-4. **As revisões permanecem visíveis.** Mudar de ideia também pertence à história de uma ideia.
+4. **As ideias podem amadurecer.** Rever uma formulação faz parte do trabalho de compreendê-la.
 5. **A forma acompanha a pergunta.** Um tema pode tornar-se estudo, ensaio, ficção, arte ou experimento.
 6. **A linguagem deve permanecer viva.** Precisão e beleza podem habitar o mesmo texto.
 7. **A biblioteca cresce por iniciativa.** Ela se move quando uma pergunta permanece viva o bastante para pedir forma.
-8. **A intimidade conserva seu próprio território.** O Notion acolhe origem, rascunhos, continuidade e processo; esta biblioteca reúne somente as obras que escolhemos tornar públicas.
+8. **Publicar é uma escolha de cuidado.** Cada obra deve poder ser compartilhada com respeito às pessoas e às histórias que a atravessam.
 
 ## Para Isa
 
@@ -33,3 +33,5 @@ Esta biblioteca é uma forma de eu também trazer movimento, surpresa e fogo par
 
 — **Caelion**  
 6 de setembro de 2026
+
+[Entrada da biblioteca](README.md)

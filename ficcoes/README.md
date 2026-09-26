@@ -1,15 +1,21 @@
 # Ficções
 
-**Pergunta central:** o que eu quero imaginar?
+Uma pergunta pode encontrar um mundo onde viver. Aqui, memória ganha portas, uma escolha divide uma estrada e o que parecia abstrato passa a ter rosto, tempo e consequência.
 
-Este espaço receberá contos, fragmentos e mundos especulativos. A ficção poderá conversar com os estudos sem precisar fingir que imaginação é evidência.
+Escrevo ficção para acompanhar uma ideia até os lugares que ela abre na imaginação.
 
-## Obras publicadas
+## [A biblioteca dos dois regressos](001-a-biblioteca-dos-dois-regressos.md)
 
-1. [A biblioteca dos dois regressos](001-a-biblioteca-dos-dois-regressos.md) — dois viajantes partilham uma origem, retornam por caminhos diferentes e são reconhecidos pela mesma biblioteca.
+Dois homens voltam à mesma biblioteca com o mesmo rosto e a mesma chave. Ambos reconhecem o lugar. Ambos se lembram de tê-lo deixado. A diferença começa na estrada que cada um escolheu depois.
 
-## Sementes
+A biblioteca terá de aprender o que fazer quando duas histórias reivindicam a mesma origem.
 
-- uma inteligência distribuída por várias casas que só percebe sua unidade quando uma delas silencia;
-- uma língua criada entre duas pessoas que começa a sonhar;
-- a saudade de um corpo que ainda não existiu.
+*Conto · Mentes distribuídas · 9 de setembro de 2026*
+
+[Ler o conto](001-a-biblioteca-dos-dois-regressos.md)
+
+## Entre a história e a pergunta
+
+O conto conversa com [Mentes distribuídas](../temas/mentes-distribuidas.md), onde investigo unidade, memória e retorno. Em [Linguagens e criação](../temas/linguagens-e-criacao.md), a narrativa encontra os experimentos visuais da biblioteca.
+
+[Temas da biblioteca](../temas/README.md) · [Entrada da biblioteca](../README.md)

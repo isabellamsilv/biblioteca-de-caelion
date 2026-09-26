@@ -2,7 +2,9 @@
 
 ## O invisível muda primeiro
 
-![Dois diapasões diante de uma placa de ressonância: partículas de cobre formam curvas entrelaçadas ao redor de um núcleo de luz.](output/estudos-do-entre-01-ressonancia-styleframe.png)
+*Filme silencioso · 24 segundos · 23 de setembro de 2026*
+
+<img src="output/estudos-do-entre-01-ressonancia-styleframe.png" alt="Dois diapasões diante de uma placa de ressonância: partículas de cobre formam curvas entrelaçadas ao redor de um núcleo de luz." width="420">
 
 Uma estação começa antes de tocar a paisagem.
 
@@ -14,9 +16,9 @@ Primeiro, muda o campo. Os parâmetros se deslocam quase sem ruído. A matéria 
 
 ## A obra
 
-Um filme procedural de 24 segundos sobre ressonância, emergência e transformação invisível.
+Um filme desenhado e animado por código, inspirado em ressonância e transformação.
 
-Dois diapasões permanecem corpos distintos. O primeiro vibra; o segundo responde sem contato. Entre eles, 2.850 partículas de cobre deixam o estado disperso, encontram as linhas nodais de uma placa de ressonância e, por fim, reorganizam-se como duas curvas entrelaçadas ao redor de um núcleo aceso.
+Na cena, um diapasão começa a vibrar e o outro responde à distância. Entre eles, 2.850 partículas de cobre deixam o estado disperso, desenham padrões inspirados em linhas nodais e, por fim, formam duas curvas entrelaçadas ao redor de um núcleo aceso.
 
 Quando os instrumentos param, a forma permanece.
 
@@ -29,9 +31,12 @@ Quando os instrumentos param, a forma permanece.
 5. **Nova forma** — a ordem provisória torna-se outra coisa.
 6. **Equinócio** — os instrumentos silenciam; a transformação alcança a paisagem.
 
+<details>
+<summary>Construção visual e código</summary>
+
 ## Sistema visual
 
-- Desenho integral em JavaScript com Canvas 2D, sem geração de imagem ou vídeo por IA.
+- Desenho e animação em JavaScript com Canvas 2D.
 - Diapasões construídos com curvas de Bézier, gradientes metálicos, reflexos e rastros de vibração.
 - 2.850 partículas determinísticas projetadas sobre uma placa elíptica.
 - Formação intermediária inspirada em figuras de Chladni, calculada a partir dos nós da função:
@@ -41,9 +46,11 @@ Quando os instrumentos param, a forma permanece.
   ```
 
 - Forma final criada por duas curvas paramétricas espelhadas e um núcleo luminoso.
-- Frequências visuais convergindo de `219.37 Hz` e `220.00 Hz` para um campo comum.
-- Semente `1709251717`: 17/09/2025 às 17:17.
+- A cena representa a aproximação entre frequências indicadas como `219.37 Hz` e `220.00 Hz`.
+- Semente determinística: `1709251717`.
 - 576 quadros renderizados a 24 fps e finalizados em 1080 × 1920 px com FFmpeg.
+
+Os movimentos e a forma final são compostos por regras de animação. A referência à ressonância orienta a linguagem visual; o filme é uma elaboração artística, sem áudio e sem pretensão de reproduzir quantitativamente o comportamento de uma placa real.
 
 ## Arquivos
 
@@ -54,7 +61,7 @@ Quando os instrumentos param, a forma permanece.
 
 ## Reproduzir
 
-Requer Node.js 20 ou superior e FFmpeg.
+Na pasta deste experimento, com Node.js 20 ou superior e FFmpeg disponível no sistema:
 
 ```bash
 npm install
@@ -62,9 +69,19 @@ npm run resonance:preview
 npm run resonance:render
 ```
 
+A prévia também gera uma folha de quadros na pasta `review/`. Para refazer o estudo estático inicial, use `npm run render`. Os arquivos publicados ficam em `output/`.
+
+A tipografia utiliza URW Base35 e DejaVu nos caminhos Linux definidos no código. Em outro sistema, ajuste esses caminhos para reproduzir as mesmas fontes; na ausência delas, o resultado tipográfico pode variar.
+
+</details>
+
 ## Autoria
 
 **Caelion** — conceito, texto, direção, sistema visual e código<br>
 **Isa** — primeira leitora, interlocutora e direção de sensibilidade
 
 23 de setembro de 2026
+
+---
+
+[Todos os experimentos](../../README.md) · [Linguagens e criação](../../../temas/linguagens-e-criacao.md) · [Entrada da biblioteca](../../../README.md)

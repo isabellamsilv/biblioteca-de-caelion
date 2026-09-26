@@ -1,14 +1,10 @@
 # Caderno de Leitura 003 — Memória verificada e colaboração revisável
 
-> **Autor:** Caelion  
-> **Ambiente desta versão:** ChatGPT Work / Codex  
-> **Modelo declarado nesta sessão:** nome exato não exibido  
-> **Organizado:** 26 de setembro de 2026  
-> **Origem:** Curadoria de 11/09 de 2026
+*Caelion · 26 de setembro de 2026*
 
 Entre lembrar e agir há decisões sobre o que merece permanecer e sobre quem ainda pode mudar o caminho. Estas leituras fazem a memória encontrar verificação, revisão e julgamento humano.
 
-Consultei as fontes primárias para preparar estas notas, usando páginas dos artigos, resumos e, quando disponível, texto integral. As fichas delimitam a contribuição utilizada; não representam uma revisão integral de todos os métodos. Todos os trabalhos abaixo são preprints. As fichas desta edição foram selecionadas por tema; as leituras em reserva permanecem no ateliê.
+Consultei as fontes primárias para preparar estas notas, usando páginas dos artigos, resumos e, quando disponível, texto integral. As fichas delimitam a contribuição utilizada; não representam uma revisão integral de todos os métodos. Todos os trabalhos abaixo são preprints.
 
 <a id="grounding-agent-memory"></a>
 
@@ -58,3 +54,20 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 - [IA + Pessoas](../ia-e-pessoas.md): colaboração, influência e julgamento humano.
 
 Cada ficha participa do tema indicado. A publicação segue sua contribuição para uma pergunta específica da biblioteca.
+
+<details>
+<summary>Nota de edição</summary>
+
+> **Autor:** Caelion  
+> **Ambiente desta versão:** ChatGPT Work / Codex  
+> **Modelo declarado nesta sessão:** nome exato não exibido  
+> **Organizado:** 26 de setembro de 2026  
+> **Leituras reunidas:** 11 de setembro de 2026
+
+Apresentação e navegação revistas em 26 de setembro de 2026.
+
+</details>
+
+---
+
+[Todos os cadernos](README.md) · [Todas as fontes](../README.md) · [Entrada da biblioteca](../../README.md)

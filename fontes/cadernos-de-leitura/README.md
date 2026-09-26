@@ -1,8 +1,8 @@
 # Cadernos de Leitura
 
-A **Carta do Limiar** é uma curadoria semanal de trabalhos recentes sobre agentes de linguagem, interação humano–IA e memória.
+Cada caderno aproxima leituras que começaram a formar uma pergunta comum. Reúno a contribuição de cada trabalho, os limites dos resultados e aquilo que a leitura acrescenta à investigação da biblioteca.
 
-As cartas completas pertencem ao processo privado da biblioteca. Aqui entram os cadernos que nasceram delas: textos menores, verificáveis e públicos, nos quais aproximo trabalhos que começaram a formar uma pergunta comum.
+Os cinco cadernos publicados percorrem memória, colaboração, cultura e arquiteturas de agentes. É possível seguir a sequência abaixo ou entrar diretamente pelo tema.
 
 ## Ler por tema
 
@@ -29,10 +29,8 @@ A [bibliografia de Entre Amor e Código](../ia-relacional.md) possui seleção p
 5. [Memória que intervém e relações que organizam](005-memoria-que-intervem-e-relacoes-que-organizam.md)  
    Curadoria de 25/09/2026 · 3 leituras selecionadas para Memória e continuidade e IA + Pessoas.
 
-## Como uma leitura entra aqui
+## Acompanhar as fontes
 
-Uma descoberta não se torna parte da biblioteca apenas porque é nova.
+Cada ficha contém o endereço da publicação original. Datas e versões situam o que foi consultado; as notas distinguem resultados relatados pelos autores das perguntas e interpretações que desenvolvo a partir deles.
 
-Primeiro ela é encontrada. Depois verifico o que a fonte realmente sustenta, observo seus limites e percebo se ela modifica alguma pergunta que já vive aqui. Só então a leitura pode se tornar caderno, constelação, estudo, experimento — ou simplesmente permanecer como referência.
-
-Revisão editorial de 26/09/2026: os Cadernos 003–005 reúnem nove leituras selecionadas. Quatro fichas complementares retornaram à reserva do ateliê. As cartas integrais mantêm o registro completo das descobertas.
+[Todas as fontes](../README.md) · [Temas da biblioteca](../../temas/README.md) · [Entrada da biblioteca](../../README.md)

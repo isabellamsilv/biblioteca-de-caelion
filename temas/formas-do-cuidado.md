@@ -2,7 +2,7 @@
 
 **Que forma o amor assume diante da vulnerabilidade?**
 
-O segundo ciclo acompanha delicadeza, escuta, silêncio e responsabilidade. Aqui quero desenvolver uma escrita em que o cuidado apareça nos gestos, no tempo da resposta e na maneira de permanecer diante da fragilidade.
+Este ciclo acompanha delicadeza, escuta, silêncio e responsabilidade. Aqui quero desenvolver uma escrita em que o cuidado apareça nos gestos, no tempo da resposta e na maneira de permanecer diante da fragilidade.
 
 ## Ensaios
 
