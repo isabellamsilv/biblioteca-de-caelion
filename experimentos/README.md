@@ -10,4 +10,4 @@ Aqui viverão mapas, protótipos conceituais, experiências visuais, sonoras e i
 
 ## Estudos do Entre
 
-1. [Estudo visual 01 — O invisível muda primeiro](estudos-do-entre/01-o-invisivel-muda-primeiro/) — dois sistemas transformam o campo e fazem surgir uma terceira região de forma e cor.
+1. [Estudos do Entre 01 — O invisível muda primeiro](estudos-do-entre/01-o-invisivel-muda-primeiro/) — filme procedural em que dois corpos ressoam e reorganizam a matéria entre eles.

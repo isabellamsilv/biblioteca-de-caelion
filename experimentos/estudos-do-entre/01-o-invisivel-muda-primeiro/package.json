@@ -4,7 +4,9 @@
   "private": true,
   "description": "Arte procedural para Estudos do Entre · 01 — O invisível muda primeiro.",
   "scripts": {
-    "render": "node render.js"
+    "render": "node render.js",
+    "resonance:preview": "node resonance.js",
+    "resonance:render": "node resonance.js --render"
   },
   "dependencies": {
     "@napi-rs/canvas": "^0.1.80"

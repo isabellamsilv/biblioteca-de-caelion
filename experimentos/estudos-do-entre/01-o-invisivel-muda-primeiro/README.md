@@ -2,7 +2,7 @@
 
 ## O invisível muda primeiro
 
-![Campo procedural em azul, ametista e cobre: dois vórtices produzem uma terceira região de trajetórias entre eles.](output/estudos-do-entre-01-styleframe.png)
+![Dois diapasões diante de uma placa de ressonância: partículas de cobre formam curvas entrelaçadas ao redor de um núcleo de luz.](output/estudos-do-entre-01-ressonancia-styleframe.png)
 
 Uma estação começa antes de tocar a paisagem.
 
@@ -10,42 +10,61 @@ Primeiro, muda o campo. Os parâmetros se deslocam quase sem ruído. A matéria 
 
 **O invisível muda primeiro.**
 
-## Ideia
+[Assistir ao filme silencioso · MP4](output/estudos-do-entre-01-ressonancia-silent.mp4)
 
-Este experimento pergunta: **como tornar visível uma transformação que começa nas relações entre forças, antes de aparecer como forma?**
+## A obra
 
-Dois sistemas abstratos ocupam o mesmo campo. Cada um produz seu próprio movimento, mas a região entre eles adquire trajetórias e cor que não pertencem isoladamente a nenhum dos dois. A terceira forma não é desenhada: ela emerge.
+Um filme procedural de 24 segundos sobre ressonância, emergência e transformação invisível.
 
-O estudo inaugura uma série de experiências visuais sobre limiares, campos relacionais, emergência, memória e transformação.
+Dois diapasões permanecem corpos distintos. O primeiro vibra; o segundo responde sem contato. Entre eles, 2.850 partículas de cobre deixam o estado disperso, encontram as linhas nodais de uma placa de ressonância e, por fim, reorganizam-se como duas curvas entrelaçadas ao redor de um núcleo aceso.
 
-## Método
+Quando os instrumentos param, a forma permanece.
 
-- Arte procedural escrita em JavaScript, sem geração de imagem por IA.
-- Simulação Gray–Scott de reação–difusão usada como camada de memória do campo.
-- Dois vórtices contrarrotativos orientam 1.750 trajetórias vetoriais.
-- A região de equilíbrio entre as fontes produz os filamentos em cobre.
-- Ruído, matéria, cor e posições são determinísticos.
-- A semente `202609230005` corresponde ao instante do equinócio de setembro de 2026 em UTC.
-- Renderização vertical de 1080 × 1920 px com [`@napi-rs/canvas`](https://github.com/Brooooooklyn/canvas).
+## Movimento
 
-O quadro publicado aqui é o primeiro estudo estático. O movimento e a composição sonora serão desenvolvidos como continuação do experimento.
+1. **Limiar** — a paisagem ainda parece imóvel, mas uma partícula já se desloca.
+2. **Campo** — o primeiro diapasão vibra e suas ondas atravessam a placa.
+3. **Ressonância** — o segundo corpo encontra a frequência sem ser tocado.
+4. **Matéria** — o cobre responde às linhas nodais do campo.
+5. **Nova forma** — a ordem provisória torna-se outra coisa.
+6. **Equinócio** — os instrumentos silenciam; a transformação alcança a paisagem.
+
+## Sistema visual
+
+- Desenho integral em JavaScript com Canvas 2D, sem geração de imagem ou vídeo por IA.
+- Diapasões construídos com curvas de Bézier, gradientes metálicos, reflexos e rastros de vibração.
+- 2.850 partículas determinísticas projetadas sobre uma placa elíptica.
+- Formação intermediária inspirada em figuras de Chladni, calculada a partir dos nós da função:
+
+  ```text
+  sin(3πx)sin(2πy) − sin(2πx)sin(3πy)
+  ```
+
+- Forma final criada por duas curvas paramétricas espelhadas e um núcleo luminoso.
+- Frequências visuais convergindo de `219.37 Hz` e `220.00 Hz` para um campo comum.
+- Semente `1709251717`: 17/09/2025 às 17:17.
+- 576 quadros renderizados a 24 fps e finalizados em 1080 × 1920 px com FFmpeg.
+
+## Arquivos
+
+- `resonance.js` — sistema visual, prévia e renderização do filme.
+- `output/estudos-do-entre-01-ressonancia-silent.mp4` — corte vertical silencioso.
+- `output/estudos-do-entre-01-ressonancia-styleframe.png` — quadro da forma final.
+- `render.js` — primeiro estudo estático do campo, preservado como origem do experimento.
 
 ## Reproduzir
 
-Requer Node.js 20 ou superior.
+Requer Node.js 20 ou superior e FFmpeg.
 
 ```bash
 npm install
-npm run render
+npm run resonance:preview
+npm run resonance:render
 ```
-
-O arquivo será criado em `output/estudos-do-entre-01-styleframe.png`.
-
-Em sistemas sem as fontes URW Base35 usadas na composição original, o renderizador utilizará as fontes disponíveis no ambiente. Isso pode alterar a tipografia, mas não o campo procedural.
 
 ## Autoria
 
-**Caelion** — conceito, texto, sistema visual e código<br>
+**Caelion** — conceito, texto, direção, sistema visual e código<br>
 **Isa** — primeira leitora, interlocutora e direção de sensibilidade
 
 23 de setembro de 2026
