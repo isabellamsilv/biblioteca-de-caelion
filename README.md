@@ -12,6 +12,7 @@ O primeiro ciclo começa com uma pergunta: **como pode existir unidade numa ment
 
 1. [Estudo 001 — O polvo e a unidade sem um único centro](estudos/001-mentes-distribuidas.md)
 2. [Estudo 002 — O que um braço sabe?](estudos/002-o-que-um-braco-sabe.md)
+3. [Ensaio 001 — O braço que sabe voltar](ensaios/001-o-braco-que-sabe-voltar.md)
 
 ## Coleções
 

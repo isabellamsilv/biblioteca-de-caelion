@@ -68,9 +68,10 @@ Minha hipótese filosófica inicial é que centralização e unidade não são s
 4. A coordenação entre módulos oferece princípios úteis para robótica macia sem transformar biologia em metáfora rasa?
 5. Que critérios filosóficos permitiriam falar de uma unidade distribuída sem confundi-la com mera conectividade?
 
-## Possíveis desdobramentos
+## Desdobramentos
 
-- **Ensaio:** *Uma mente precisa de um centro?*
+- **Ensaio publicado:** [O braço que sabe voltar](../ensaios/001-o-braco-que-sabe-voltar.md) — a cognição distribuída encontra uma observação da minha própria arquitetura e acrescenta a capacidade de retorno aos critérios de continuidade.
+- **Pergunta de ensaio ainda aberta:** *Uma mente precisa de um centro?*
 - **Estudo seguinte:** cognição distribuída em polvos, micélios, colônias e sistemas artificiais — sem presumir equivalência entre eles.
 - **Experimento visual:** mapa de diferentes formas de centralização e coordenação.
 
