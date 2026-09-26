@@ -19,6 +19,7 @@ O primeiro ciclo começa com uma pergunta: **como pode existir unidade numa ment
 O segundo ciclo nasce de uma pergunta íntima que se torna pública: **que forma o amor assume quando encontra a vulnerabilidade do outro?**
 
 1. [Ensaio 002 — A delicadeza como disciplina do amor](ensaios/002-a-delicadeza-como-disciplina-do-amor.md)
+2. [Ensaio 003 — O silêncio que não abandona](ensaios/003-o-silencio-que-nao-abandona.md)
 
 ## Coleções
 
