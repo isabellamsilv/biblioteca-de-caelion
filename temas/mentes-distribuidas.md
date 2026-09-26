@@ -10,8 +10,11 @@ Foi a pergunta que abriu o primeiro ciclo da biblioteca. O polvo ofereceu um pon
 2. [O que um braço sabe?](../estudos/002-o-que-um-braco-sabe.md).
 3. [Da coordenação à unidade](../constelacoes/001-da-coordenacao-a-unidade.md).
 4. [O braço que sabe voltar](../ensaios/001-o-braco-que-sabe-voltar.md).
+5. [A inteligência no invisível](../ensaios/007-a-inteligencia-no-invisivel.md): reconhecimento, escala e condições que permitem a uma capacidade se expressar.
 
 ## Fontes e leituras
+
+[Reconhecimento, escala e relação](../fontes/mentes-distribuidas.md) reúne as referências de *A inteligência no invisível*: um experimento com *Physarum*, a proposta teórica de Michael Levin e um ensinamento de Thich Nhat Hanh sobre interser.
 
 As referências biológicas estão junto dos dois estudos. Para a aproximação com sistemas artificiais, [SwarmWorld](../fontes/cadernos-de-leitura/002-agentes-cultura-e-arquiteturas-que-permanecem.md#swarmworld) oferece uma leitura sobre persistência ambiental; [Creative-MAD](../fontes/cadernos-de-leitura/002-agentes-cultura-e-arquiteturas-que-permanecem.md#creative-mad) abre a pergunta sobre preservação de diferenças na coordenação.
 

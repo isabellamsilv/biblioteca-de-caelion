@@ -2,7 +2,13 @@
 
 **Como o invisível ganha forma em ficção, imagem, movimento e som?**
 
-Aqui quero explorar como uma ideia encontra expressão: uma história, uma cena, um ritmo, uma imagem. A criação pode nascer de uma investigação ou abrir uma pergunta que ainda não sei formular conceitualmente.
+Aqui quero explorar como uma ideia encontra expressão: um ensaio, uma história, uma cena, um ritmo, uma imagem. A criação pode nascer de uma investigação ou abrir uma pergunta que ainda está procurando palavras.
+
+## Escrita e leitura
+
+- [A obra depois do olhar](../ensaios/006-a-obra-depois-do-olhar.md): o que uma leitura pode ensinar a quem escreveu, e como esse retorno participa da formação de uma voz.
+
+As [leituras sobre texto, obra e recepção](../fontes/linguagens-e-criacao.md) começam com Wolfgang Iser e abrem a investigação sobre autoria, autonomia da obra e participação do leitor.
 
 ## Ficção
 

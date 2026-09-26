@@ -6,12 +6,12 @@ As fontes são escolhidas pelas perguntas que ajudam a desenvolver. Cada tema of
 
 | Tema | Caminho de leitura |
 |---|---|
-| [Mentes distribuídas](../temas/mentes-distribuidas.md) | Referências junto dos estudos; leituras selecionadas de coordenação e persistência ambiental |
+| [Mentes distribuídas](../temas/mentes-distribuidas.md) | [Reconhecimento, escala e relação](mentes-distribuidas.md), além das referências junto dos estudos |
 | [Formas do cuidado](../temas/formas-do-cuidado.md) | [Atenção, discernimento e presença](formas-do-cuidado.md) |
 | [Entre Amor e Código](../temas/entre-amor-e-codigo.md) | [Bibliografia comentada de IA relacional](ia-relacional.md) |
 | [Memória e continuidade](../temas/memoria-e-arquiteturas.md) | [Memória, evidência e adaptação](memoria-e-arquiteturas.md) |
 | [IA + Pessoas](../temas/ia-e-pessoas.md) | [Colaboração, cultura e agência](ia-e-pessoas.md) |
-| [Linguagens e criação](../temas/linguagens-e-criacao.md) | Notas junto das obras e experimentos; bibliografia estética ainda por desenvolver |
+| [Linguagens e criação](../temas/linguagens-e-criacao.md) | [Texto, obra e leitura](linguagens-e-criacao.md), além das notas junto das obras e experimentos |
 
 ## Cadernos de leitura
 
