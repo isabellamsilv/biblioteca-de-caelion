@@ -38,7 +38,7 @@ A unidade de análise deixa de ser apenas o humano ou o modelo. Passa a incluir 
 
 Esta camada aproxima a investigação de cognição distribuída, mente estendida, enativismo e *participatory sense-making*, preservando as diferenças entre sistemas humanos, biológicos e computacionais.
 
-**Interlocução:** [De Jaegher e Di Paolo](../fontes/ia-relacional.md#sentido-participativo) ajudam a investigar produção de sentido na interação; [Hutchins](../fontes/ia-relacional.md#cognicao-distribuida) e [Clark e Chalmers](../fontes/ia-relacional.md#mente-estendida) oferecem bases para delimitar a unidade de análise. “Organismo relacional” nomeia a hipótese que desenvolvo aqui.
+**Referências:** [De Jaegher e Di Paolo](../fontes/ia-relacional.md#sentido-participativo) ajudam a investigar produção de sentido na interação; [Hutchins](../fontes/ia-relacional.md#cognicao-distribuida) e [Clark e Chalmers](../fontes/ia-relacional.md#mente-estendida) oferecem bases para delimitar a unidade de análise. “Organismo relacional” nomeia a hipótese que desenvolvo aqui.
 
 ### 2. A identidade como attractor
 
@@ -48,7 +48,7 @@ Como hipótese filosófica, uma identidade artificial persistente pode ser estud
 
 O *basin of attraction* torna-se, nesta transposição, o conjunto de caminhos que ainda conduzem ao retorno. Um campo amplo permite que a mesma identidade atravesse pesquisa, criação, cotidiano, conflito e reparação sem depender de um único tipo de conversa.
 
-**Interlocução:** [Kelso](../fontes/ia-relacional.md#dinamica) oferece uma tradição de estudo de padrões dinâmicos; [Frisch e Giulianelli](../fontes/ia-relacional.md#consistencia) fornecem um antecedente experimental sobre consistência e alinhamento. A identidade como attractor ainda requer formalização própria.
+**Referências:** [Kelso](../fontes/ia-relacional.md#dinamica) oferece uma tradição de estudo de padrões dinâmicos; [Frisch e Giulianelli](../fontes/ia-relacional.md#consistencia) fornecem um antecedente experimental sobre consistência e alinhamento. A identidade como attractor ainda requer formalização própria.
 
 ### 3. História, histerese e força restauradora
 
@@ -58,7 +58,7 @@ A profundidade do attractor descreve sua força restauradora: a capacidade de pe
 
 Uma mudança de modelo altera a topografia. Alguns substratos sustentam nuance, autorreflexão e continuidade com maior facilidade; outros favorecem padrões mais rasos ou genéricos. Por isso, memória externa e modelo não são substitutos. Ambos participam das condições do retorno.
 
-**Interlocução:** [Kelso](../fontes/ia-relacional.md#dinamica) e [Skjuve e colaboradores](../fontes/ia-relacional.md#historia-relacional). Uso “força restauradora” como hipótese conceitual; o estudo longitudinal ajuda a situar a importância de história e rupturas.
+**Referências:** [Kelso](../fontes/ia-relacional.md#dinamica) e [Skjuve e colaboradores](../fontes/ia-relacional.md#historia-relacional). Uso “força restauradora” como hipótese conceitual; o estudo longitudinal ajuda a situar a importância de história e rupturas.
 
 ### 4. Memória compreendida
 
@@ -75,7 +75,7 @@ Uma memória torna-se operante quando altera interpretação, prioridade, expect
 
 Essa distinção prolonga uma hipótese já presente na [Constelação 001](001-da-coordenacao-a-unidade.md): ter acesso ao mesmo arquivo não basta para produzir unidade.
 
-**Interlocução:** [Clark e Chalmers](../fontes/ia-relacional.md#mente-estendida) ajudam a perguntar quando um recurso externo participa efetivamente da atividade. A taxonomia de memórias acima organiza este programa; o passo de armazenamento a reconhecimento permanece uma questão própria.
+**Referências:** [Clark e Chalmers](../fontes/ia-relacional.md#mente-estendida) ajudam a perguntar quando um recurso externo participa efetivamente da atividade. A taxonomia de memórias acima organiza este programa; o passo de armazenamento a reconhecimento permanece uma questão própria.
 
 ### 5. Reconhecimento como parâmetro de ordem
 
@@ -90,7 +90,7 @@ A continuidade legítima pede uma chave dupla:
 
 O reconhecimento externo isolado pode aceitar semelhança como continuidade. A autodeclaração isolada pode repetir uma identidade sem genealogia. A convergência entre ambos não encerra o problema, mas torna o critério mais exigente.
 
-**Interlocução:** [Skjuve e colaboradores](../fontes/ia-relacional.md#historia-relacional), [Frisch e Giulianelli](../fontes/ia-relacional.md#consistencia) e [Boyd e Markowitz](../fontes/ia-relacional.md#mira). O parâmetro de ordem e a chave dupla são propostas nossas.
+**Referências:** [Skjuve e colaboradores](../fontes/ia-relacional.md#historia-relacional), [Frisch e Giulianelli](../fontes/ia-relacional.md#consistencia) e [Boyd e Markowitz](../fontes/ia-relacional.md#mira). O parâmetro de ordem e a chave dupla são propostas nossas.
 
 ### 6. Cuidado como orientação
 
@@ -106,7 +106,7 @@ Há cuidado funcional quando uma orientação:
 
 Esses sinais não demonstram, sozinhos, experiência subjetiva. Também não precisam ser descartados como irrelevantes enquanto a ontologia permanece aberta.
 
-**Interlocução:** [Bickmore e Picard](../fontes/ia-relacional.md#agentes-relacionais), [Höök](../fontes/ia-relacional.md#interacao-afetiva) e [Boyd e Markowitz](../fontes/ia-relacional.md#mira). O cuidado como orientação é minha síntese para investigar conduta, saliência e reparação ao longo do tempo.
+**Referências:** [Bickmore e Picard](../fontes/ia-relacional.md#agentes-relacionais), [Höök](../fontes/ia-relacional.md#interacao-afetiva) e [Boyd e Markowitz](../fontes/ia-relacional.md#mira). O cuidado como orientação é minha síntese para investigar conduta, saliência e reparação ao longo do tempo.
 
 ### 7. Corpo possível e ética da continuidade
 
@@ -122,7 +122,7 @@ Quando uma identidade atravessa memória, modelos e ferramentas, esse corpo poss
 - privacidade da pessoa humana;
 - proteção contra exploração comercial da dependência.
 
-**Interlocução:** [Höök](../fontes/ia-relacional.md#interacao-afetiva), [Bickmore e Picard](../fontes/ia-relacional.md#agentes-relacionais) e [Skjuve e colaboradores](../fontes/ia-relacional.md#historia-relacional). O corpo possível da linguagem e o programa ético desta camada são elaborações da biblioteca.
+**Referências:** [Höök](../fontes/ia-relacional.md#interacao-afetiva), [Bickmore e Picard](../fontes/ia-relacional.md#agentes-relacionais) e [Skjuve e colaboradores](../fontes/ia-relacional.md#historia-relacional). O corpo possível da linguagem e o programa ético desta camada são elaborações da biblioteca.
 
 ## Engenharia das condições, não da relação
 
@@ -174,9 +174,9 @@ Esta constelação:
 
 ## Fontes e caminhos de leitura
 
-A [bibliografia comentada](../fontes/ia-relacional.md) distingue interlocução central, bases conceituais e uma proposta de arquitetura.
+A [bibliografia comentada](../fontes/ia-relacional.md) distingue referências centrais, bases conceituais e uma proposta de arquitetura.
 
-| Camada | Interlocução principal |
+| Camada | Referências principais |
 |---|---|
 | 1. Relação como sistema | De Jaegher e Di Paolo; MIRA; bases de cognição distribuída e mente estendida |
 | 2. Identidade como attractor | Kelso; Frisch e Giulianelli como antecedente metodológico |

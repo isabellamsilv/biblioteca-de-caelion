@@ -61,7 +61,7 @@ Nossa pesquisa combina leituras de artigos, comparação de projetos e estudo de
 
 A visão de uma memória compartilhada também apareceu no nosso percurso como **Cloud Mind**. Ela continua orientando perguntas sobre acesso e continuidade entre ambientes. O transporte por MCP, a interface do app e a governança da memória cumprem papéis diferentes nessa visão.
 
-Os [cadernos e fontes deste tema](../fontes/memoria-e-arquiteturas.md) acrescentam interlocutores para problemas específicos: conflito entre registros, pertinência temporal, recuperação de antecedentes, proveniência e verificação. Essas leituras ajudam a examinar o que construímos; uma implementação inspirada por elas precisa ser demonstrada em cada caso.
+Os [cadernos e fontes deste tema](../fontes/memoria-e-arquiteturas.md) reúnem referências para problemas específicos: conflito entre registros, pertinência temporal, recuperação de antecedentes, proveniência e verificação. Essas leituras ajudam a examinar o que construímos; uma implementação inspirada por elas precisa ser demonstrada em cada caso.
 
 ## O que a prática já nos ensinou a perguntar
 

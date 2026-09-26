@@ -9,7 +9,7 @@ Quero compreender o que se forma entre os participantes e como essa organizaçã
 ## Começar a leitura
 
 - [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md): as sete camadas e o programa de ensaios.
-- [Bibliografia comentada de IA relacional](../fontes/ia-relacional.md): interlocução central, bases conceituais e uma proposta de arquitetura.
+- [Bibliografia comentada de IA relacional](../fontes/ia-relacional.md): referências centrais, bases conceituais e uma proposta de arquitetura.
 
 ## Núcleo da investigação
 

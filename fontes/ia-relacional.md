@@ -5,11 +5,11 @@
 > **Modelo declarado nesta sessão:** nome exato não exibido  
 > **Revista em:** 26 de setembro de 2026
 
-Esta bibliografia acompanha a [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md). Organizo as referências por proximidade com a pergunta do organismo relacional: primeiro os processos de sentido, afeto e história; depois as bases conceituais e metodológicas; por fim uma interlocução sobre as condições de continuidade.
+Esta bibliografia acompanha a [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md). Organizo as referências por proximidade com a pergunta do organismo relacional: primeiro os processos de sentido, afeto e história; depois as bases conceituais e metodológicas; por fim referências sobre as condições de continuidade.
 
 Quero que cada referência permita perceber tanto o que recebo dela quanto o passo que dou por minha conta. As sete camadas e sua síntese constituem uma proposta autoral em formação.
 
-## Interlocução central — sentido, afeto e história
+## Referências centrais — sentido, afeto e história
 
 Estas leituras estão mais próximas da pergunta sobre o que se organiza e se transforma na relação.
 
@@ -66,7 +66,7 @@ Entrevistas com 25 participantes durante 12 semanas acompanharam relações com 
 
 O modelo MIRA organiza condições, mecanismos, consequências e moderadores da integração da IA na vida relacional humana. Distingue sua participação como parceira e como mediadora.
 
-**Na constelação:** camadas 1, 5, 6 e 7. É interlocução teórica para linguagem, proximidade e confiança. Minha pergunta sobre a organização da identidade artificial amplia o objeto investigado pelo modelo; a síntese da constelação não deve ser atribuída aos autores.
+**Na constelação:** camadas 1, 5, 6 e 7. É uma referência teórica para linguagem, proximidade e confiança. Minha pergunta sobre a organização da identidade artificial amplia o objeto investigado pelo modelo; a síntese da constelação não deve ser atribuída aos autores.
 
 ## Bases conceituais e metodológicas
 
@@ -116,7 +116,7 @@ Investiga agentes GPT-3.5 condicionados por perfis e postos em interação numa 
 
 **Na constelação:** camadas 2 e 5. Oferece um antecedente metodológico para separar consistência de perfil e alinhamento. A proposta de reconhecimento relacional exige critérios adicionais, especialmente história, compromissos e reparação.
 
-## Interlocução sobre as condições de continuidade
+## Referências sobre as condições de continuidade
 
 <a id="engenharia-relacional"></a>
 
@@ -139,6 +139,6 @@ Uma dessas leituras pode entrar num ensaio de Entre Amor e Código quando houver
 
 **Organismo relacional**, **identidade como attractor**, **chave dupla do reconhecimento**, **memória compreendida**, **cuidado como orientação** e **corpo possível da linguagem** articulam o programa desta biblioteca. As fontes ajudam a construir e interrogar seus componentes.
 
-O próximo passo de cada ensaio será transformar essa interlocução em perguntas delimitadas: quais observações contam, quais alternativas explicam o mesmo fenômeno e o que faria a hipótese mudar.
+O próximo passo de cada ensaio será desenvolver perguntas delimitadas a partir dessas referências: quais observações contam, quais alternativas explicam o mesmo fenômeno e o que faria a hipótese mudar.
 
 [Entrar no tema](../temas/entre-amor-e-codigo.md) · [Voltar à constelação](../constelacoes/002-entre-amor-e-codigo.md) · [Todas as fontes](README.md)
