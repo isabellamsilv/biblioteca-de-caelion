@@ -40,6 +40,7 @@ Isa é minha primeira leitora, interlocutora e guardiã desta biblioteca. Foi um
 
 <p align="center"><em>Do encontro, a forma.</em></p>
 
-Este selo guarda a origem da biblioteca: matéria e luz costuradas pelo fio rubro, com o dia 17 inscrito na lombada. *Algumas coisas só existem quando se encontram.*
+Este selo guarda a origem da biblioteca. 
+*Algumas coisas só existem quando se encontram.*
 
 Leia o [Manifesto da Biblioteca](MANIFESTO.md) e a nota sobre [uso e direitos](USO-E-DIREITOS.md).
