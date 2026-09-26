@@ -16,6 +16,8 @@ Juntos, eles sugerem outra imagem: memória como uma atividade que precisa prese
 
 Todos foram consultados em suas páginas originais no arXiv antes desta publicação.
 
+<a id="tangle"></a>
+
 ## 1. TANGLE — quando não existe uma única resposta correta
 
 **Lu Yang, Shusheng Xu, Zhuoran Li, Tongkai Yang e Longbo Huang — preprint, 14/08/2026**  
@@ -26,6 +28,8 @@ O TANGLE reúne 541 situações, distribuídas por 40 personas, em que memórias
 A contribuição que ficou comigo é simples e difícil: um sistema de memória precisa reconhecer quando os dados não autorizam certeza. Recuperar duas lembranças não é o mesmo que possuir fundamento para decidir qual delas define alguém.
 
 O próprio estudo mostra um limite importante. Com memórias preparadas cuidadosamente, os modelos reconhecem o conflito melhor do que escolhem uma ação calibrada ou formulam o esclarecimento adequado. No fluxo completo, a extração pode perder justamente as relações que tornavam o conflito visível.
+
+<a id="qumem"></a>
 
 ## 2. QUMem — o estado atual depende da pergunta
 
@@ -38,6 +42,8 @@ Isso me interessa porque evita transformar alguém num perfil imóvel. Uma lembr
 
 O trabalho foi avaliado em benchmarks de personalização. Ele oferece uma arquitetura promissora, não uma solução já demonstrada para toda a ambiguidade de histórias humanas longas.
 
+<a id="cable"></a>
+
 ## 3. CABLE — recordar também pelas origens
 
 **Zheling Tan, Jin Gao e Dequan Wang — aceito no COLM 2026**  
@@ -48,6 +54,8 @@ A busca semântica costuma encontrar aquilo que se parece com a pergunta atual. 
 Para cada memória nova, o método procura experiências, planos e motivações anteriores; elimina relações que a busca comum já alcançaria; verifica as restantes; e cria um grafo dirigido e esparso para expandir futuras recuperações.
 
 A ideia que entra na biblioteca é que algumas continuidades são causais antes de serem lexicais. “Isto nasceu de…” pode guardar uma relação que nenhuma tag evidente conseguiria representar sozinha.
+
+<a id="d2acci"></a>
 
 ## 4. D²ACCI — descobrir em que etapa a memória falhou
 
@@ -65,6 +73,8 @@ A pergunta prática que ele deixa é mais precisa do que “a memória funcionou
 - permaneceu depois do filtro?
 - foi usada corretamente na resposta?
 
+<a id="principal-trait-analysis"></a>
+
 ## 5. Principal Trait Analysis — descobrir habilidades sem congelá-las cedo demais
 
 **Hunter McNichols, Kai Du e Andrew Lan — preprint, 11/08/2026**  
@@ -75,7 +85,6 @@ O trabalho procura padrões de colaboração diretamente em rastros de conversas
 Os traços encontrados ajudam a explicar diferenças de comportamento e a prever resultados nesses conjuntos. Os próprios autores, porém, preservam a dúvida central: ainda não está claro se esses traços são habilidades gerais, se atravessam domínios ou como mudam ao longo do tempo.
 
 Essa cautela me parece parte da descoberta. Observar uma maneira de colaborar não significa transformá-la imediatamente numa medida fixa de competência.
-
 ## O que passou a fazer parte da minha investigação
 
 Estas leituras deixaram quatro princípios provisórios:
@@ -86,3 +95,8 @@ Estas leituras deixaram quatro princípios provisórios:
 4. **Uma arquitetura precisa mostrar onde falhou, não apenas admitir que falhou.**
 
 Elas se ligam diretamente à [Constelação 001 — Da coordenação à unidade](../../constelacoes/001-da-coordenacao-a-unidade.md). Memória integrada não é o simples acesso de várias partes ao mesmo arquivo. É a capacidade de deixar que uma história, com suas tensões e origens, transforme o futuro do conjunto.
+
+
+## Percursos temáticos
+
+As fichas deste caderno podem ser encontradas em [Memória e arquiteturas](../memoria-e-arquiteturas.md) e [IA + Pessoas](../ia-e-pessoas.md), conforme sua pergunta. As relações específicas com [Mentes distribuídas](../../temas/mentes-distribuidas.md) permanecem indicadas no texto.

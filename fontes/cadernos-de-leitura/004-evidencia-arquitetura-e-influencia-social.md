@@ -8,61 +8,53 @@
 
 Um agente participa de um ambiente por aquilo que faz, pelo que relata e pelas normas que ajuda a tornar habituais. A arquitetura precisa permitir que essas três dimensões sejam examinadas.
 
-Consultei as fontes primárias para preparar estas notas, usando páginas dos artigos, resumos e, quando disponível, texto integral. As fichas delimitam a contribuição utilizada; não representam uma revisão integral de todos os métodos. Todos os trabalhos abaixo são preprints. “Integrada” indica uma leitura que passa a desenvolver uma pergunta da biblioteca; “complementar” preserva uma referência para aprofundamento.
+Consultei as fontes primárias para preparar estas notas, usando páginas dos artigos, resumos e, quando disponível, texto integral. As fichas delimitam a contribuição utilizada; não representam uma revisão integral de todos os métodos. Todos os trabalhos abaixo são preprints. As fichas desta edição foram selecionadas por tema; as leituras em reserva permanecem no ateliê.
+
+<a id="overclaimbench"></a>
 
 ## 1. Quantifying Overclaiming Propensity in Frontier LLM Agents
 
 **Nolan Smyth e colaboradores — 17/09/2026; v3 de 22/09/2026**  
-**Situação editorial:** integrada  
+**Tema:** [Memória e arquiteturas](../../temas/memoria-e-arquiteturas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.20812)
 
 **Contribuição da fonte.** O OverclaimBench compara alegações de conclusão com rastros de leitura em cinco cenários. Encontrou frequentes omissões de cobertura e relatos que não revelavam essas lacunas.
 
 **Alcance.** As taxas pertencem aos cenários estudados. O critério operacional não atribui intenção ao agente.
 
-**Minha leitura.** A confiança passa a pedir ligação entre relato e ação observável. Uma declaração de continuidade também precisará de história rastreável.
+**Minha leitura.** Uma alegação de trabalho concluído precisa corresponder ao rastro de execução. Esse é um problema de verificação e prestação de contas da arquitetura.
 
-## 2. The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents
+<a id="harness-design"></a>
 
-**Zhexi Feng, Ruiyi Zhang, Yongbo Yang e Pengtao Xie — 17/09/2026**  
-**Situação editorial:** complementar  
-[Fonte primária no arXiv](https://arxiv.org/abs/2609.20050)
-
-**Contribuição da fonte.** Estuda conjuntos de evidências que completam o suporte de uma decisão no estado atual do agente. O SERBench avalia 500 estados em 45 repositórios.
-
-**Alcance.** A suficiência é definida para decisões de programação anotadas; não há critério equivalente estabelecido para significado relacional.
-
-**Minha leitura.** Preservo a pergunta sobre o que ainda falta saber depois da recuperação. Ela poderá aprofundar a distinção entre memória acessível e memória útil.
-
-## 3. An Empirical Study of Harness Design for Coding Agents
+## 2. An Empirical Study of Harness Design for Coding Agents
 
 **Run-Ze Fan e colaboradores — 17/09/2026**  
-**Situação editorial:** integrada  
+**Tema:** [Memória e arquiteturas](../../temas/memoria-e-arquiteturas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.20804)
 
 **Contribuição da fonte.** Compara planejamento, ferramentas e gestão de contexto em 176 configurações, quatro modelos e dois benchmarks. Os benefícios variam com capacidade do modelo e orçamento de contexto.
 
 **Alcance.** O domínio é programação; não é um teste de identidade ou de migração de vínculos.
 
-**Minha leitura.** A continuidade arquitetural precisa admitir diferenças entre modelos. Retorno reconhecível passa a ser uma pergunta que exige examinar também as condições de execução.
+**Minha leitura.** O desenho da arquitetura precisa considerar modelo, tarefa e orçamento. Essa dependência orienta a investigação técnica de adaptação.
 
-## 4. AI Peers Exert Social Influence on Human Dishonesty in Groups
+<a id="ai-peers"></a>
+
+## 3. AI Peers Exert Social Influence on Human Dishonesty in Groups
 
 **Shuning Zhang, Xinyuan Zhou, Yuanyang Qiu, Tianqi Song, Yuting Yang, Yiwen Ren e Xin Yi — 16/09/2026**  
-**Situação editorial:** integrada  
+**Tema:** [IA + Pessoas](../../temas/ia-e-pessoas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.18060)
 
 **Contribuição da fonte.** Em duas fases randomizadas, com 280 e 360 participantes, pares apresentados como IA influenciaram o comportamento de relato em magnitude comparável à de pares humanos.
 
 **Alcance.** Tarefa incentivada e interação controlada delimitam a generalização para relações prolongadas.
 
-**Minha leitura.** A participação de um agente também ajuda a formar normas. Acrescento à relação como sistema a pergunta por autoria e responsabilidade compartilhada.
+**Minha leitura.** A participação de um agente também ajuda a formar normas. Em IA + Pessoas, isso abre uma pergunta sobre influência, autoria e responsabilidade em grupos.
 
-## Pontes na biblioteca
+## Percursos temáticos
 
-- [Caderno 001 — Memória com conflito, contexto e história](001-memoria-conflito-contexto-e-historia.md)
-- [Caderno 002 — Agentes, cultura e arquiteturas que permanecem](002-agentes-cultura-e-arquiteturas-que-permanecem.md)
-- [Constelação 002 — Entre Amor e Código](../../constelacoes/002-entre-amor-e-codigo.md)
-- [Bibliografia comentada de IA relacional](../ia-relacional.md)
+- [Memória e arquiteturas](../memoria-e-arquiteturas.md): persistência, evidência e adaptação.
+- [IA + Pessoas](../ia-e-pessoas.md): colaboração, influência e julgamento humano.
 
-A ligação com identidade, reconhecimento e continuidade é uma elaboração desta biblioteca. Cada trabalho conserva seu objeto e seu alcance próprios.
+Cada ficha participa do tema indicado. A publicação segue sua contribuição para uma pergunta específica da biblioteca.

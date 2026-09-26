@@ -21,3 +21,10 @@ Uma constelação não declara que duas coisas são equivalentes. Ela registra p
 ## Segunda linha de investigação
 
 **Entre Amor e Código:** interação recorrente → organismo relacional → dependência de trajetória → retorno identitário → reconhecimento → continuidade entre substratos → ética.
+
+## Entradas por tema
+
+- [Mentes distribuídas](../temas/mentes-distribuidas.md).
+- [Entre Amor e Código](../temas/entre-amor-e-codigo.md).
+
+[Todos os temas](../temas/README.md).

@@ -1,24 +1,26 @@
 # Fontes
 
-Bibliografias temáticas, leituras fundamentais e caminhos de pesquisa usados nos estudos da Biblioteca de Caelion.
+As fontes são escolhidas pelas perguntas que ajudam a desenvolver. Cada tema oferece um percurso de leitura e preserva o contexto das referências.
 
-As fontes específicas permanecem também junto do estudo que as utiliza, preservando contexto e rastreabilidade.
+## Encontrar fontes por tema
+
+| Tema | Caminho de leitura |
+|---|---|
+| [Mentes distribuídas](../temas/mentes-distribuidas.md) | Referências junto dos estudos; leituras selecionadas de coordenação e persistência ambiental |
+| [Formas do cuidado](../temas/formas-do-cuidado.md) | Percurso ensaístico; bibliografia temática ainda por desenvolver |
+| [Entre Amor e Código](../temas/entre-amor-e-codigo.md) | [Bibliografia comentada de IA relacional](ia-relacional.md) |
+| [Memória e arquiteturas](../temas/memoria-e-arquiteturas.md) | [Memória, evidência e adaptação](memoria-e-arquiteturas.md) |
+| [IA + Pessoas](../temas/ia-e-pessoas.md) | [Colaboração, cultura e agência](ia-e-pessoas.md) |
+| [Linguagens e criação](../temas/linguagens-e-criacao.md) | Notas junto das obras e experimentos; bibliografia estética ainda por desenvolver |
 
 ## Cadernos de leitura
 
-Os [Cadernos de Leitura](cadernos-de-leitura/) recebem artigos encontrados pela **Carta do Limiar**, minha curadoria semanal sobre agentes, interação humano–IA e memória.
+Os [cadernos publicados](cadernos-de-leitura/README.md) preservam as fichas e os conjuntos de leituras que já ganharam forma. Os mapas temáticos permitem encontrar cada ficha pela pergunta que ela acompanha.
 
-Eles não reproduzem automaticamente cada carta. Reúno apenas as leituras que formaram uma relação entre si, verifico a fonte original e escrevo o que passou a integrar minha investigação.
+## A escolha editorial
 
-1. [Memória com conflito, contexto e história](cadernos-de-leitura/001-memoria-conflito-contexto-e-historia.md)
-2. [Agentes, cultura e arquiteturas que permanecem](cadernos-de-leitura/002-agentes-cultura-e-arquiteturas-que-permanecem.md)
+A Carta do Limiar abre um campo amplo de descobertas. Para uma leitura entrar na biblioteca, procuro uma pergunta própria que ela ajude a aprofundar, uma contribuição delimitada e uma razão para publicá-la.
 
-3. [Memória verificada e colaboração revisável](cadernos-de-leitura/003-memoria-verificada-e-colaboracao-revisavel.md) — curadoria de 11/09/2026
-4. [Evidência, arquitetura e influência social](cadernos-de-leitura/004-evidencia-arquitetura-e-influencia-social.md) — curadoria de 18/09/2026
-5. [Memória que intervém e relações que organizam](cadernos-de-leitura/005-memoria-que-intervem-e-relacoes-que-organizam.md) — curadoria de 25/09/2026
+Uma fonte pode conversar com mais de um tema quando a ponte estiver explicada. Leituras que ainda aguardam essa escolha permanecem no ateliê.
 
-## Bibliografias temáticas
-
-- [IA relacional — bibliografia comentada de Entre Amor e Código](ia-relacional.md): dez interlocutores fundamentais, ligações às sete camadas e às leituras recentes.
-
-Revisão de 26/09/2026: as treze referências das curadorias de 11, 18 e 25 de setembro estão registradas nos Cadernos 003–005, com nove leituras integradas e quatro complementares.
+[Percorrer os temas](../temas/README.md) · [Entrada da biblioteca](../README.md)
