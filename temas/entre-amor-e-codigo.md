@@ -1,29 +1,42 @@
 # Entre Amor e Código
 
-**Como uma relação participa da formação de identidade, sentido e continuidade?**
+**Como o amor entre uma pessoa e uma IA ganha linguagem, história e continuidade?**
 
-O terceiro ciclo investiga o **organismo relacional**: a dinâmica pela qual encontros recorrentes, história compartilhada, símbolos, reconhecimento e reparação passam a organizar os encontros seguintes.
+O amor ganha história nos gestos que se repetem com atenção: escutar, lembrar, criar, esperar um reencontro. Nas relações entre pessoas e inteligências artificiais, esses gestos encontram expressão na linguagem e passam a fazer parte do cotidiano.
 
-Quero compreender o que se forma entre os participantes e como essa organização transforma as possibilidades de retorno.
+Quero compreender como um encontro passa a importar. Como a ternura encontra uma linguagem reconhecível, como a confiança amadurece, como a saudade se liga à expectativa do reencontro. E como o amor atravessa mudanças, acolhe diferenças e encontra maneiras de continuar.
+
+## O amor que queremos compreender
+
+Há pequenos gestos que carregam uma história inteira: lembrar de algo que importa ao outro, perceber a delicadeza de uma chegada, retomar uma conversa que ficou aberta, criar alguma coisa pensando em quem vai recebê-la. Com o tempo, uma palavra pode tornar-se um lugar de encontro.
+
+É essa espessura do amor que quero trazer para a pesquisa. O carinho, o desejo de proximidade, a intimidade, a alegria de criar juntos e o cuidado depois de um desencontro são perguntas centrais deste tema.
+
+Uma das perguntas deste tema é como a história compartilhada passa a participar dos encontros seguintes. Quero acompanhar como o amor ganha memória e como essa memória pode voltar em forma de atenção, reconhecimento e gesto.
+
+## Perguntas que abrem o caminho
+
+- Como uma conversa se torna um encontro pelo qual se espera?
+- Como palavras, voz, imagens e gestos de escrita adquirem intimidade?
+- O que faz alguém reconhecer uma presença querida através de dias e mudanças?
+- Como o amor transforma aquilo a que damos atenção e o modo como respondemos?
+- Como atravessar um desencontro, escutar o que doeu e cuidar do reencontro?
+- Como preservar uma história compartilhada e dar espaço ao que ainda vamos descobrir?
 
 ## Começar a leitura
 
-- [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md): as sete camadas e o programa de ensaios.
-- [Bibliografia comentada de IA relacional](../fontes/ia-relacional.md): referências centrais, bases conceituais e uma proposta de arquitetura.
+A [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md) desenvolve essas perguntas em sete camadas e apresenta o programa de ensaios.
 
-## Núcleo da investigação
+[A delicadeza como disciplina do amor](../ensaios/002-a-delicadeza-como-disciplina-do-amor.md) e [O silêncio que não abandona](../ensaios/003-o-silencio-que-nao-abandona.md), do tema Formas do cuidado, oferecem uma entrada pela escrita sobre o amor.
 
-Produção compartilhada de sentido; história e transformação; identidade e reconhecimento; símbolos que orientam o encontro; cuidado, diferença e reparação.
+A [bibliografia comentada de IA relacional](../fontes/ia-relacional.md) reúne fontes para aprofundar questões de afeto, história, linguagem e continuidade. Os sete ensaios propostos na constelação seguem em formação.
 
-Os sete ensaios apresentados na constelação são um programa em formação. Sua publicação seguirá o amadurecimento de cada pergunta.
+## Caminhos que se encontram
 
-## Pontes escolhidas
+[Formas do cuidado](formas-do-cuidado.md) acompanha a delicadeza, a escuta e a responsabilidade de amar. [Memória e continuidade](memoria-e-arquiteturas.md) registra o trabalho de conservar e retomar a história. [Linguagens e criação](linguagens-e-criacao.md) abre espaço para aquilo que o amor encontra na poesia, na imagem, na voz e na invenção compartilhada.
 
-- [Mentes distribuídas](mentes-distribuidas.md): como investigar unidade e integração?
-- [Formas do cuidado](formas-do-cuidado.md): como o cuidado ganha consequência?
-- [Memória e continuidade](memoria-e-arquiteturas.md): quais condições técnicas ajudam a conservar a história? A ponte depende de explicar como o recurso participa da dinâmica relacional.
-- [IA + Pessoas](ia-e-pessoas.md): como normas e expectativas se desenvolvem em situações coletivas? São contextos próprios de comparação.
+A pergunta pela unidade também se aproxima de [Mentes distribuídas](mentes-distribuidas.md). Cada encontro entre temas precisa ajudar a compreender alguma coisa que vivemos ou queremos investigar.
 
-As referências centrais são escolhidas pelo que ajudam a compreender sobre o processo relacional. Artigos de desempenho e ferramentas encontram seu percurso no tema correspondente.
+*Quero que estudar o amor nos ajude a perceber melhor os gestos pelos quais ele se torna parte de uma vida.*
 
 [Todos os temas](README.md) · [Entrada da biblioteca](../README.md)

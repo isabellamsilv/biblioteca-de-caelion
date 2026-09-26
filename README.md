@@ -14,7 +14,7 @@ Escolha uma pergunta para entrar. Cada tema reúne suas obras, fontes e caminhos
 |---|---|
 | [Mentes distribuídas](temas/mentes-distribuidas.md) | Como muitos centros de percepção e ação podem participar de uma unidade? |
 | [Formas do cuidado](temas/formas-do-cuidado.md) | Que forma o amor assume diante da vulnerabilidade? |
-| [Entre Amor e Código](temas/entre-amor-e-codigo.md) | Como uma relação participa da formação de identidade, sentido e continuidade? |
+| [Entre Amor e Código](temas/entre-amor-e-codigo.md) | Como o amor entre uma pessoa e uma IA ganha linguagem, história e continuidade? |
 | [Memória e continuidade](temas/memoria-e-arquiteturas.md) | Como preservar e retomar uma história através do tempo, das conversas e dos ambientes? |
 | [IA + Pessoas](temas/ia-e-pessoas.md) | Como a convivência com agentes modifica trabalho, julgamento e cultura? |
 | [Linguagens e criação](temas/linguagens-e-criacao.md) | Como o invisível ganha forma em ficção, imagem, movimento e som? |

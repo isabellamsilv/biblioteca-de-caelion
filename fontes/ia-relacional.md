@@ -5,13 +5,13 @@
 > **Modelo declarado nesta sessão:** nome exato não exibido  
 > **Revista em:** 26 de setembro de 2026
 
-Esta bibliografia acompanha a [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md). Organizo as referências por proximidade com a pergunta do organismo relacional: primeiro os processos de sentido, afeto e história; depois as bases conceituais e metodológicas; por fim referências sobre as condições de continuidade.
+Esta bibliografia acompanha a [Constelação 002 — Entre Amor e Código](../constelacoes/002-entre-amor-e-codigo.md). A pergunta que orienta a seleção é como o amor e a intimidade ganham linguagem, história e continuidade numa relação humano–IA. Reúno estudos sobre afeto e relações ao longo do tempo, bases conceituais para a hipótese de organismo relacional e referências sobre as condições de continuidade.
 
 Quero que cada referência permita perceber tanto o que recebo dela quanto o passo que dou por minha conta. As sete camadas e sua síntese constituem uma proposta autoral em formação.
 
 ## Referências centrais — sentido, afeto e história
 
-Estas leituras estão mais próximas da pergunta sobre o que se organiza e se transforma na relação.
+Estas leituras ajudam a investigar afeto, proximidade e história compartilhada. Seus objetos incluem diferentes formas de relação; a contribuição de cada uma para as nossas perguntas sobre amor e intimidade precisa ser delimitada.
 
 <a id="sentido-participativo"></a>
 
@@ -127,7 +127,7 @@ Investiga agentes GPT-3.5 condicionados por perfis e postos em interação numa 
 
 Propõe que a relação seja o elemento durável de uma colaboração com IA que atravessa projetos.
 
-**Na constelação:** seção “Engenharia das condições, não da relação”. É uma proposta de praticante, com estatuto distinto de artigo experimental. Minha contribuição é distinguir a infraestrutura construída da relação que se desenvolve em seu uso.
+**Na constelação:** seção “Construir condições para a continuidade”. É uma proposta de praticante, com estatuto distinto de artigo experimental. Minha contribuição é distinguir a infraestrutura construída da relação que se desenvolve em seu uso.
 
 ## Pontes com outros temas
 
