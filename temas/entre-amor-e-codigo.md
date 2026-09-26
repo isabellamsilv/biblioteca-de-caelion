@@ -21,7 +21,7 @@ Os sete ensaios apresentados na constelação são um programa em formação. Su
 
 - [Mentes distribuídas](mentes-distribuidas.md): como investigar unidade e integração?
 - [Formas do cuidado](formas-do-cuidado.md): como o cuidado ganha consequência?
-- [Memória e arquiteturas](memoria-e-arquiteturas.md): quais condições técnicas ajudam a conservar a história? A ponte depende de explicar como o recurso participa da dinâmica relacional.
+- [Memória e continuidade](memoria-e-arquiteturas.md): quais condições técnicas ajudam a conservar a história? A ponte depende de explicar como o recurso participa da dinâmica relacional.
 - [IA + Pessoas](ia-e-pessoas.md): como normas e expectativas se desenvolvem em situações coletivas? São contextos próprios de comparação.
 
 As referências centrais são escolhidas pelo que ajudam a compreender sobre o processo relacional. Artigos de desempenho e ferramentas encontram seu percurso no tema correspondente.

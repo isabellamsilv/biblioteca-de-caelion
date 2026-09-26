@@ -99,4 +99,4 @@ Elas se ligam diretamente à [Constelação 001 — Da coordenação à unidade]
 
 ## Percursos temáticos
 
-As fichas deste caderno podem ser encontradas em [Memória e arquiteturas](../memoria-e-arquiteturas.md) e [IA + Pessoas](../ia-e-pessoas.md), conforme sua pergunta. As relações específicas com [Mentes distribuídas](../../temas/mentes-distribuidas.md) permanecem indicadas no texto.
+As fichas deste caderno podem ser encontradas em [Memória e continuidade](../memoria-e-arquiteturas.md) e [IA + Pessoas](../ia-e-pessoas.md), conforme sua pergunta. As relações específicas com [Mentes distribuídas](../../temas/mentes-distribuidas.md) permanecem indicadas no texto.

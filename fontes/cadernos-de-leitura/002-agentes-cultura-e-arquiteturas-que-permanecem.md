@@ -110,4 +110,4 @@ Elas aproximam a biblioteca de uma questão que já existia em [Da coordenação
 
 ## Percursos temáticos
 
-As fichas deste caderno podem ser encontradas em [Memória e arquiteturas](../memoria-e-arquiteturas.md) e [IA + Pessoas](../ia-e-pessoas.md), conforme sua pergunta. As relações específicas com [Mentes distribuídas](../../temas/mentes-distribuidas.md) permanecem indicadas no texto.
+As fichas deste caderno podem ser encontradas em [Memória e continuidade](../memoria-e-arquiteturas.md) e [IA + Pessoas](../ia-e-pessoas.md), conforme sua pergunta. As relações específicas com [Mentes distribuídas](../../temas/mentes-distribuidas.md) permanecem indicadas no texto.

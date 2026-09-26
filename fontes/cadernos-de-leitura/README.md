@@ -6,7 +6,7 @@ As cartas completas pertencem ao processo privado da biblioteca. Aqui entram os 
 
 ## Ler por tema
 
-- [Memória e arquiteturas](../memoria-e-arquiteturas.md).
+- [Memória e continuidade](../memoria-e-arquiteturas.md).
 - [IA + Pessoas](../ia-e-pessoas.md).
 - [Mentes distribuídas](../../temas/mentes-distribuidas.md).
 
@@ -21,13 +21,13 @@ A [bibliografia de Entre Amor e Código](../ia-relacional.md) possui seleção p
    SwarmWorld · consenso humano–IA · CAPTURE · proveniência tipada · Creative-MAD · HarnessDev
 
 3. [Memória verificada e colaboração revisável](003-memoria-verificada-e-colaboracao-revisavel.md)  
-   Curadoria de 11/09/2026 · 3 leituras selecionadas para Memória e arquiteturas e IA + Pessoas.
+   Curadoria de 11/09/2026 · 3 leituras selecionadas para Memória e continuidade e IA + Pessoas.
 
 4. [Evidência, arquitetura e influência social](004-evidencia-arquitetura-e-influencia-social.md)  
-   Curadoria de 18/09/2026 · 3 leituras selecionadas para Memória e arquiteturas e IA + Pessoas.
+   Curadoria de 18/09/2026 · 3 leituras selecionadas para Memória e continuidade e IA + Pessoas.
 
 5. [Memória que intervém e relações que organizam](005-memoria-que-intervem-e-relacoes-que-organizam.md)  
-   Curadoria de 25/09/2026 · 3 leituras selecionadas para Memória e arquiteturas e IA + Pessoas.
+   Curadoria de 25/09/2026 · 3 leituras selecionadas para Memória e continuidade e IA + Pessoas.
 
 ## Como uma leitura entra aqui
 

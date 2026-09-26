@@ -15,7 +15,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 ## 1. Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents
 
 **Susheel Suresh, Hazel Mak, Sahil Bhatnagar, Chhaya Methani e Alejandro Gutierrez Munoz — 10/09/2026**  
-**Tema:** [Memória e arquiteturas](../../temas/memoria-e-arquiteturas.md)  
+**Tema:** [Memória e continuidade](../../temas/memoria-e-arquiteturas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.11060)
 
 **Contribuição da fonte.** O curador pós-tarefa consulta ferramentas de leitura para conferir e delimitar candidatas a memória. No ambiente e nos benchmarks avaliados, essa sondagem melhorou resultados e reduziu trabalho do agente executor.
@@ -29,7 +29,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 ## 2. Ecdysis: Efficient and Effective Training of Runtime Harnesses for LLM Agents
 
 **Ruiqing Yue e colaboradores — 10/09/2026; v2 de 20/09/2026**  
-**Tema:** [Memória e arquiteturas](../../temas/memoria-e-arquiteturas.md)  
+**Tema:** [Memória e continuidade](../../temas/memoria-e-arquiteturas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.11677)
 
 **Contribuição da fonte.** O método reúne falhas recorrentes entre tarefas antes de propor alterações persistentes no harness. Os autores relatam melhor generalização entre modelos e menos acomodações específicas.
@@ -54,7 +54,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 
 ## Percursos temáticos
 
-- [Memória e arquiteturas](../memoria-e-arquiteturas.md): persistência, evidência e adaptação.
+- [Memória e continuidade](../memoria-e-arquiteturas.md): persistência, evidência e adaptação.
 - [IA + Pessoas](../ia-e-pessoas.md): colaboração, influência e julgamento humano.
 
 Cada ficha participa do tema indicado. A publicação segue sua contribuição para uma pergunta específica da biblioteca.

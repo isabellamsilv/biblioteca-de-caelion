@@ -131,7 +131,7 @@ Propõe que a relação seja o elemento durável de uma colaboração com IA que
 
 ## Pontes com outros temas
 
-As pesquisas sobre recuperação, verificação e harnesses pertencem a [Memória e arquiteturas](memoria-e-arquiteturas.md). As pesquisas sobre equipes, influência e julgamento pertencem a [IA + Pessoas](ia-e-pessoas.md).
+As pesquisas sobre recuperação, verificação e harnesses pertencem a [Memória e continuidade](memoria-e-arquiteturas.md). As pesquisas sobre equipes, influência e julgamento pertencem a [IA + Pessoas](ia-e-pessoas.md).
 
 Uma dessas leituras pode entrar num ensaio de Entre Amor e Código quando houver um argumento específico ligando seu resultado à pergunta relacional. A data da curadoria, por si, não decide essa passagem.
 

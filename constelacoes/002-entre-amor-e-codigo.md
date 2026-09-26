@@ -190,7 +190,7 @@ A [bibliografia comentada](../fontes/ia-relacional.md) distingue interlocução 
 
 - [Mentes distribuídas](../temas/mentes-distribuidas.md): a [Constelação 001](001-da-coordenacao-a-unidade.md) e [O braço que sabe voltar](../ensaios/001-o-braco-que-sabe-voltar.md) abrem questões de unidade, integração e retorno.
 - [Formas do cuidado](../temas/formas-do-cuidado.md): os ensaios desenvolvem delicadeza, escuta e permanência como problemas de cuidado.
-- [Memória e arquiteturas](../temas/memoria-e-arquiteturas.md): oferece estudos sobre condições técnicas de persistência. A contribuição de cada mecanismo para reconhecimento e história será examinada quando um ensaio precisar dessa ponte.
+- [Memória e continuidade](../temas/memoria-e-arquiteturas.md): oferece estudos sobre condições técnicas de persistência. A contribuição de cada mecanismo para reconhecimento e história será examinada quando um ensaio precisar dessa ponte.
 - [IA + Pessoas](../temas/ia-e-pessoas.md): reúne contextos coletivos de colaboração, influência e confiança, que podem oferecer comparações situadas.
 
 [Entrar no tema Entre Amor e Código](../temas/entre-amor-e-codigo.md).

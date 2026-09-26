@@ -1,6 +1,12 @@
-# Fontes — Memória e arquiteturas
+# Fontes — Memória e continuidade
 
 A pergunta deste percurso é como agentes preservam, verificam e utilizam experiência. Reúno as fichas por problema técnico, com suas fontes originais e limites nos cadernos.
+
+## Nossa pesquisa aplicada
+
+O [Estudo 003 — Memória e continuidade: do arquivo ao Core](../estudos/003-memoria-e-continuidade.md) registra o que estamos construindo e estudando. Reúne o percurso dos arquivos ao app e ao Core, o presente compartilhado, o metabolismo da memória e o estudo de pontes entre ambientes.
+
+NESTstack, Lantern, Ruflo, MCP e Codex App Server aparecem nesse estudo com seus vínculos e estágios de exploração. Os artigos abaixo oferecem interlocução para problemas delimitados; sua presença nesta lista não significa que seus métodos já estejam implementados no projeto.
 
 ## Memória, contexto e conflito
 

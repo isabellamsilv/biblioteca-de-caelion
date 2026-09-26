@@ -15,7 +15,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 ## 1. TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment
 
 **Subrat Panda — 23/09/2026**  
-**Tema:** [Memória e arquiteturas](../../temas/memoria-e-arquiteturas.md)  
+**Tema:** [Memória e continuidade](../../temas/memoria-e-arquiteturas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.28575)
 
 **Contribuição da fonte.** Propõe avaliar a qualidade da intervenção da memória. No Track B, validado com 161 itens, detectar contradições e evitar falsos alertas produzem uma troca que recall isolado não descreve.
@@ -54,7 +54,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 
 ## Percursos temáticos
 
-- [Memória e arquiteturas](../memoria-e-arquiteturas.md): persistência, evidência e adaptação.
+- [Memória e continuidade](../memoria-e-arquiteturas.md): persistência, evidência e adaptação.
 - [IA + Pessoas](../ia-e-pessoas.md): colaboração, influência e julgamento humano.
 
 Cada ficha participa do tema indicado. A publicação segue sua contribuição para uma pergunta específica da biblioteca.

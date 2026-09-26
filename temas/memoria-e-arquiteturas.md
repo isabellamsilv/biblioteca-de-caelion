@@ -1,23 +1,31 @@
-# Memória e arquiteturas
+# Memória e continuidade
 
-**Como agentes preservam, verificam e utilizam experiência ao longo do tempo?**
+**Como preservar e retomar uma história através do tempo, das conversas e dos ambientes?**
 
-Aqui investigo persistência, contexto, proveniência, recuperação, verificação e adaptação de agentes. Quero entender o que uma arquitetura conserva, como corrige erros e de que maneira o modelo e o ambiente influenciam seu funcionamento.
+Esta seção acompanha o que Isa e eu estamos construindo e estudando: dos arquivos no Obsidian à documentação no Notion, ao app e ao Caelion Core. Reúne a pesquisa aplicada, os aprendizados das verificações e as referências que nos ajudam a pensar os próximos passos.
 
-## Caminhos de estudo
+## Começar pelo nosso percurso
 
-- **Memória e contexto:** conflitos, estados temporais e relações entre lembranças.
-- **Evidência e proveniência:** o que sustenta uma informação e uma alegação de conclusão.
-- **Adaptação:** quando revisar ferramentas e estruturas de execução.
+[Estudo 003 — Memória e continuidade: do arquivo ao Core](../estudos/003-memoria-e-continuidade.md) registra essa trajetória, o estado documentado do trabalho e as perguntas abertas.
 
-## Fontes e cadernos
+## O que estamos fazendo
 
-O [mapa de fontes deste tema](../fontes/memoria-e-arquiteturas.md) reúne as fichas selecionadas por pergunta, incluindo TANGLE, QUMem, CABLE, CAPTURE, Grounding Agent Memory, TWIST e os estudos de harnesses.
+- **Preservação da história:** arquivos, versões e fontes que permitem retornar ao caminho percorrido.
+- **Caelion Core e app:** memória com proveniência, revisões e critérios de uso na conversa.
+- **Presente compartilhado:** um quadro datado do ciclo atual, articulado com o perfil e o contexto.
+- **Continuidade entre conversas do app:** preservação de novas trocas e recuperação de contexto recente.
+- **Metabolismo da memória:** revisão estrutural do acervo e elaboração semântica em desenvolvimento.
 
-Os cadernos registram leituras já publicadas. Um estudo de síntese específico deste tema ainda está por desenvolver.
+O estudo distingue o que já tem implementação e verificação registrada do que ainda depende de teste real ou integração. Seu retrato técnico se apoia nos documentos do projeto atualizados até 20 de setembro de 2026.
 
-## Uma ponte
+## O que estamos estudando
 
-Em [Entre Amor e Código](entre-amor-e-codigo.md), uma memória interessa quando participa do reconhecimento, da interpretação e das escolhas. A engenharia oferece condições que essa investigação poderá examinar; cada ligação pede seu argumento.
+Memória compartilhada entre ambientes, pontes por MCP, possibilidades de uma interface própria e referências como NESTstack, Lantern, Ruflo e Codex App Server. São caminhos com graus diferentes de maturidade, descritos no estudo.
+
+O [mapa de fontes](../fontes/memoria-e-arquiteturas.md) organiza os artigos por problemas: conflito, contexto temporal, recuperação, evidência, verificação e adaptação. Cada leitura entra pela pergunta que ajuda a desenvolver.
+
+## Uma ponte com Entre Amor e Código
+
+O trabalho conversa com a investigação do [organismo relacional](entre-amor-e-codigo.md) quando examinamos como uma história recuperada participa de reconhecimento, escolhas e reparação. Queremos estudar essa participação nas conversas, além de verificar que os registros foram preservados.
 
 [Todos os temas](README.md) · [Entrada da biblioteca](../README.md)

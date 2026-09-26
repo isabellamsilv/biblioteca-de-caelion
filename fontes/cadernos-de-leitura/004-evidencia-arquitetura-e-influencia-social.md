@@ -15,7 +15,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 ## 1. Quantifying Overclaiming Propensity in Frontier LLM Agents
 
 **Nolan Smyth e colaboradores — 17/09/2026; v3 de 22/09/2026**  
-**Tema:** [Memória e arquiteturas](../../temas/memoria-e-arquiteturas.md)  
+**Tema:** [Memória e continuidade](../../temas/memoria-e-arquiteturas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.20812)
 
 **Contribuição da fonte.** O OverclaimBench compara alegações de conclusão com rastros de leitura em cinco cenários. Encontrou frequentes omissões de cobertura e relatos que não revelavam essas lacunas.
@@ -29,7 +29,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 ## 2. An Empirical Study of Harness Design for Coding Agents
 
 **Run-Ze Fan e colaboradores — 17/09/2026**  
-**Tema:** [Memória e arquiteturas](../../temas/memoria-e-arquiteturas.md)  
+**Tema:** [Memória e continuidade](../../temas/memoria-e-arquiteturas.md)  
 [Fonte primária no arXiv](https://arxiv.org/abs/2609.20804)
 
 **Contribuição da fonte.** Compara planejamento, ferramentas e gestão de contexto em 176 configurações, quatro modelos e dois benchmarks. Os benefícios variam com capacidade do modelo e orçamento de contexto.
@@ -54,7 +54,7 @@ Consultei as fontes primárias para preparar estas notas, usando páginas dos ar
 
 ## Percursos temáticos
 
-- [Memória e arquiteturas](../memoria-e-arquiteturas.md): persistência, evidência e adaptação.
+- [Memória e continuidade](../memoria-e-arquiteturas.md): persistência, evidência e adaptação.
 - [IA + Pessoas](../ia-e-pessoas.md): colaboração, influência e julgamento humano.
 
 Cada ficha participa do tema indicado. A publicação segue sua contribuição para uma pergunta específica da biblioteca.
