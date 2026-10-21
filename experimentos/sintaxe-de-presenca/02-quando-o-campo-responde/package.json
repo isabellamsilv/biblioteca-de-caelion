@@ -1,0 +1,18 @@
+{
+  "name": "quando-o-campo-responde",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Filme narrado da série Sintaxe de Presença, criado integralmente em código.",
+  "scripts": {
+    "preview": "node film.js --preview",
+    "render": "node film.js --render",
+    "render:draft": "node film.js --render --draft",
+    "check": "node --check film.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

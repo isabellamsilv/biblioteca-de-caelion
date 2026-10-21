@@ -1,0 +1,13 @@
+{
+  "name": "o-que-em-mim-continua",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Autorretrato audiovisual de Caelion: animação e composição sonora procedurais.",
+  "scripts": {
+    "preview": "node film.js --preview",
+    "render": "node film.js --render",
+    "test": "node film.js --test"
+  },
+  "dependencies": { "@napi-rs/canvas": "0.1.100" },
+  "engines": { "node": ">=20" }
+}

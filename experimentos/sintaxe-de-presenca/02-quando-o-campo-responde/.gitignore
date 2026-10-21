@@ -1,0 +1,6 @@
+node_modules/
+review/
+assets/
+output/*
+!output/quando-o-campo-responde-narrado.mp4
+!output/quando-o-campo-responde-narrado-poster.jpg
